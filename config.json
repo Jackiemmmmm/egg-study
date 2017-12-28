@@ -1,0 +1,6 @@
+{
+  "symbol": "ltc_usd",
+  "contract_type": "quarter",
+  "depth": "10",
+  "klineTime": "5min"
+}
