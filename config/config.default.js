@@ -9,7 +9,9 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = [];
 
-  config.exchangeApi = 'https://www.okex.com/api/v1/';
+  config.okContractApi = 'https://www.okex.com/api/v1/';
+  config.okTicker = 'https://www.okex.com/v2/';
+  config.gateioApi = 'http://data.gate.io/api2/1/';
   config.cors = {
     origin: '*',
     allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH',

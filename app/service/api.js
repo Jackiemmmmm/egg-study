@@ -10,17 +10,10 @@ const queryString = (params = {}) => {
 };
 
 class getPubApi extends Service {
-  async getApi(url, object = {}) {
+  async api(url) {
     try {
-      console.log(15, url);
-      const { ctx, config } = this;
-      let defaultUrl = `${url}.do${queryString(object)}`;
-      if (url === 'exchange_rate') {
-        defaultUrl = `${url}.do`;
-      }
-      const result = await ctx.curl(`${config.exchangeApi}${defaultUrl}`, {
-        dataType: 'json',
-      });
+      const { ctx } = this;
+      const result = await ctx.curl(url, { dataType: 'json' });
       if (!result.error_code) {
         return result;
       }
@@ -28,6 +21,22 @@ class getPubApi extends Service {
     } catch (err) {
       throw err;
     }
+  }
+  okContractApi(url, object = {}) {
+    const { config } = this;
+    let defaultUrl = `${url}.do${queryString(object)}`;
+    if (url === 'exchange_rate') {
+      defaultUrl = `${url}.do`;
+    }
+    return this.api(`${config.okContractApi}${defaultUrl}`);
+  }
+  okTicker() {
+    const { config } = this;
+    return this.api(`${config.okTicker}markets/tickers`);
+  }
+  gateioApi(url, symbol = '') {
+    const { config } = this;
+    return this.api(`${config.gateioApi}${url}/${symbol}`);
   }
 }
 
