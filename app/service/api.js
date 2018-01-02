@@ -14,10 +14,7 @@ class getPubApi extends Service {
     try {
       const { ctx } = this;
       const result = await ctx.curl(url, { dataType: 'json' });
-      if (!result.error_code) {
-        return result;
-      }
-      return result.error_code;
+      return result;
     } catch (err) {
       throw err;
     }

@@ -1,0 +1,4015 @@
+{
+  "gate.io": {
+    "btc_usdt": {
+      "result": "true",
+      "last": 13480,
+      "lowestAsk": 13479,
+      "highestBid": 13400.08,
+      "percentChange": 1.6366562367383,
+      "baseVolume": 5583505.05,
+      "quoteVolume": 418.2337,
+      "high24hr": 13745,
+      "low24hr": 12786.51
+    },
+    "bch_usdt": {
+      "result": "true",
+      "last": 2394,
+      "lowestAsk": 2399,
+      "highestBid": 2394,
+      "percentChange": 4.0379487740781,
+      "baseVolume": 428773.38,
+      "quoteVolume": 183.8769,
+      "high24hr": 2411.87,
+      "low24hr": 2221.7
+    },
+    "eth_usdt": {
+      "result": "true",
+      "last": 866,
+      "lowestAsk": 866,
+      "highestBid": 864.73,
+      "percentChange": 20.277783472157,
+      "baseVolume": 10472771.99,
+      "quoteVolume": 13743.0534,
+      "high24hr": 867.57,
+      "low24hr": 715.48
+    },
+    "etc_usdt": {
+      "result": "true",
+      "last": 31.29,
+      "lowestAsk": 31.29,
+      "highestBid": 31.19,
+      "percentChange": 22.587025316456,
+      "baseVolume": 2075998.26,
+      "quoteVolume": 70324.5938,
+      "high24hr": 31.67,
+      "low24hr": 25.2
+    },
+    "qtum_usdt": {
+      "result": "true",
+      "last": 50.97,
+      "lowestAsk": 52.17,
+      "highestBid": 51.06,
+      "percentChange": 3.7743345260707,
+      "baseVolume": 1082180.1,
+      "quoteVolume": 20992.8412,
+      "high24hr": 53.7,
+      "low24hr": 49.19
+    },
+    "ltc_usdt": {
+      "result": "true",
+      "last": 247.55,
+      "lowestAsk": 250,
+      "highestBid": 247.55,
+      "percentChange": 14.636292058003,
+      "baseVolume": 1076631.43,
+      "quoteVolume": 4803.2958,
+      "high24hr": 245.76,
+      "low24hr": 215
+    },
+    "dash_usdt": {
+      "result": "true",
+      "last": 1070.95,
+      "lowestAsk": 1070.95,
+      "highestBid": 1067.11,
+      "percentChange": 9.6011012501669,
+      "baseVolume": 102914.68,
+      "quoteVolume": 102.3888,
+      "high24hr": 1066.89,
+      "low24hr": 973.05
+    },
+    "zec_usdt": {
+      "result": "true",
+      "last": 528,
+      "lowestAsk": 528.65,
+      "highestBid": 524,
+      "percentChange": 15.523465703971,
+      "baseVolume": 432213.95,
+      "quoteVolume": 851.3251,
+      "high24hr": 540,
+      "low24hr": 441.73
+    },
+    "btm_usdt": {
+      "result": "true",
+      "last": 0.3795,
+      "lowestAsk": 0.3794,
+      "highestBid": 0.3785,
+      "percentChange": 12.377850133029,
+      "baseVolume": 2541390.3127,
+      "quoteVolume": 7181797.3224,
+      "high24hr": 0.3814,
+      "low24hr": 0.334
+    },
+    "eos_usdt": {
+      "result": "true",
+      "last": 8.3946,
+      "lowestAsk": 8.4,
+      "highestBid": 8.336,
+      "percentChange": 13.412361946749,
+      "baseVolume": 2246669.9674,
+      "quoteVolume": 290049.9174,
+      "high24hr": 8.46,
+      "low24hr": 7.2604
+    },
+    "req_usdt": {
+      "result": "true",
+      "last": 0.7651,
+      "lowestAsk": 0.7651,
+      "highestBid": 0.765,
+      "percentChange": 49.892220195207,
+      "baseVolume": 224758.6539,
+      "quoteVolume": 305031.7159,
+      "high24hr": 0.9487,
+      "low24hr": 0.4866
+    },
+    "snt_usdt": {
+      "result": "true",
+      "last": 0.2578,
+      "lowestAsk": 0.2616,
+      "highestBid": 0.2578,
+      "percentChange": 8.8321473419841,
+      "baseVolume": 1750177.9372,
+      "quoteVolume": 6748745.911,
+      "high24hr": 0.2965,
+      "low24hr": 0.23
+    },
+    "omg_usdt": {
+      "result": "true",
+      "last": 19.24,
+      "lowestAsk": 19.26,
+      "highestBid": 19,
+      "percentChange": 3.1635384906863,
+      "baseVolume": 118788.35,
+      "quoteVolume": 6210.758,
+      "high24hr": 21.06,
+      "low24hr": 18
+    },
+    "pay_usdt": {
+      "result": "true",
+      "last": 4.032,
+      "lowestAsk": 4.049,
+      "highestBid": 4.024,
+      "percentChange": 3.867403312844,
+      "baseVolume": 136565.257,
+      "quoteVolume": 35188.554,
+      "high24hr": 4.087,
+      "low24hr": 3.773
+    },
+    "cvc_usdt": {
+      "result": "true",
+      "last": 0.8685,
+      "lowestAsk": 0.8952,
+      "highestBid": 0.8686,
+      "percentChange": 5.631233276575,
+      "baseVolume": 42972.2481,
+      "quoteVolume": 50769.1245,
+      "high24hr": 0.9,
+      "low24hr": 0.7688
+    },
+    "zrx_usdt": {
+      "result": "true",
+      "last": 0.9561,
+      "lowestAsk": 0.969,
+      "highestBid": 0.9284,
+      "percentChange": 10.137081233455,
+      "baseVolume": 40875.6462,
+      "quoteVolume": 44359.5698,
+      "high24hr": 0.99,
+      "low24hr": 0.8307
+    },
+    "tnt_usdt": {
+      "result": "true",
+      "last": 0.263,
+      "lowestAsk": 0.2635,
+      "highestBid": 0.2601,
+      "percentChange": 35.770234676376,
+      "baseVolume": 224587.2024,
+      "quoteVolume": 979485.247,
+      "high24hr": 0.2845,
+      "low24hr": 0.1845
+    },
+    "xmr_usdt": {
+      "result": "true",
+      "last": 347.3,
+      "lowestAsk": 346.95,
+      "highestBid": 339.52,
+      "percentChange": 8.53125,
+      "baseVolume": 53483.36,
+      "quoteVolume": 162.6267,
+      "high24hr": 351.76,
+      "low24hr": 311.18
+    },
+    "xrp_usdt": {
+      "result": "true",
+      "last": 2.272,
+      "lowestAsk": 2.272,
+      "highestBid": 2.27,
+      "percentChange": 3.3227127901684,
+      "baseVolume": 433740.7358,
+      "quoteVolume": 191717.3776,
+      "high24hr": 2.396,
+      "low24hr": 2.1447
+    },
+    "doge_usdt": {
+      "result": "true",
+      "last": 0.008692,
+      "lowestAsk": 0.00869,
+      "highestBid": 0.008683,
+      "percentChange": 2.0211515801716,
+      "baseVolume": 1316353.0023,
+      "quoteVolume": 155202145.152,
+      "high24hr": 0.0089,
+      "low24hr": 0.008032
+    },
+    "bat_usdt": {
+      "result": "true",
+      "last": 0.445,
+      "lowestAsk": 0.4454,
+      "highestBid": 0.4347,
+      "percentChange": 24.352331640801,
+      "baseVolume": 179369.3939,
+      "quoteVolume": 418528.8008,
+      "high24hr": 0.48,
+      "low24hr": 0.3716
+    },
+    "llt_usdt": {
+      "result": "true",
+      "last": 0.2387,
+      "lowestAsk": 0.2438,
+      "highestBid": 0.2402,
+      "percentChange": 3.2299192272248,
+      "baseVolume": 206827.2535,
+      "quoteVolume": 882782.5304,
+      "high24hr": 0.2432,
+      "low24hr": 0.2259
+    },
+    "pst_usdt": {
+      "result": "true",
+      "last": 0.6014,
+      "lowestAsk": 0.6417,
+      "highestBid": 0.6014,
+      "percentChange": -0.16627868744431,
+      "baseVolume": 79115.1478,
+      "quoteVolume": 130416.2154,
+      "high24hr": 0.6407,
+      "low24hr": 0.5815
+    },
+    "btg_usdt": {
+      "result": "true",
+      "last": 233,
+      "lowestAsk": 238.03,
+      "highestBid": 229.67,
+      "percentChange": -0.75392937768881,
+      "baseVolume": 45174.85,
+      "quoteVolume": 194.4478,
+      "high24hr": 253.34,
+      "low24hr": 226.19
+    },
+    "dpy_usdt": {
+      "result": "true",
+      "last": 3.438,
+      "lowestAsk": 3.438,
+      "highestBid": 3.1712,
+      "percentChange": 5.8332302532849,
+      "baseVolume": 64878.528,
+      "quoteVolume": 20811.0378,
+      "high24hr": 3.4421,
+      "low24hr": 2.8
+    },
+    "lrc_usdt": {
+      "result": "true",
+      "last": 0.4495,
+      "lowestAsk": 0.4495,
+      "highestBid": 0.4488,
+      "percentChange": 2.3250512865147,
+      "baseVolume": 385462.4948,
+      "quoteVolume": 841974.4173,
+      "high24hr": 0.5099,
+      "low24hr": 0.4219
+    },
+    "storj_usdt": {
+      "result": "true",
+      "last": 2.25,
+      "lowestAsk": 2.2606,
+      "highestBid": 2.2605,
+      "percentChange": -3.184165232358,
+      "baseVolume": 145101.1121,
+      "quoteVolume": 64191.4054,
+      "high24hr": 2.4036,
+      "low24hr": 2.1001
+    },
+    "rdn_usdt": {
+      "result": "true",
+      "last": 4.9378,
+      "lowestAsk": 4.943,
+      "highestBid": 4.7213,
+      "percentChange": 20.463527685926,
+      "baseVolume": 124934.8919,
+      "quoteVolume": 27760.1089,
+      "high24hr": 5.007,
+      "low24hr": 4.098
+    },
+    "stx_usdt": {
+      "result": "true",
+      "last": 1.044,
+      "lowestAsk": 1.044,
+      "highestBid": 1.023,
+      "percentChange": 16.629213483146,
+      "baseVolume": 98044.995,
+      "quoteVolume": 108292.4713,
+      "high24hr": 1.044,
+      "low24hr": 0.8099
+    },
+    "knc_usdt": {
+      "result": "true",
+      "last": 3.2036,
+      "lowestAsk": 3.2034,
+      "highestBid": 3.1082,
+      "percentChange": 23.841187213979,
+      "baseVolume": 172515.2678,
+      "quoteVolume": 60618.149,
+      "high24hr": 3.235,
+      "low24hr": 2.4024
+    },
+    "link_usdt": {
+      "result": "true",
+      "last": 0.6789,
+      "lowestAsk": 0.6789,
+      "highestBid": 0.6765,
+      "percentChange": 24.054747647562,
+      "baseVolume": 41471.6355,
+      "quoteVolume": 65346.4999,
+      "high24hr": 0.7252,
+      "low24hr": 0.5645
+    },
+    "cdt_usdt": {
+      "result": "true",
+      "last": 0.1637,
+      "lowestAsk": 0.1635,
+      "highestBid": 0.163,
+      "percentChange": 0,
+      "baseVolume": 144647.5134,
+      "quoteVolume": 911039.212,
+      "high24hr": 0.1695,
+      "low24hr": 0.143
+    },
+    "ae_usdt": {
+      "result": "true",
+      "last": 1.3926,
+      "lowestAsk": 1.3934,
+      "highestBid": 1.3861,
+      "percentChange": 4.5839897966839,
+      "baseVolume": 391351.1651,
+      "quoteVolume": 299061.0087,
+      "high24hr": 1.3999,
+      "low24hr": 1.251
+    },
+    "ae_eth": {
+      "result": "true",
+      "last": 0.001618,
+      "lowestAsk": 0.001624,
+      "highestBid": 0.001618,
+      "percentChange": -11.492378420735,
+      "baseVolume": 187.326,
+      "quoteVolume": 108906.892,
+      "high24hr": 0.001858,
+      "low24hr": 0.001625
+    },
+    "cdt_eth": {
+      "result": "true",
+      "last": 0.000186,
+      "lowestAsk": 0.000189,
+      "highestBid": 0.000167,
+      "percentChange": -15.837107098244,
+      "baseVolume": 69.494,
+      "quoteVolume": 337550.005,
+      "high24hr": 0.000228,
+      "low24hr": 0.00019
+    },
+    "rdn_eth": {
+      "result": "true",
+      "last": 0.005714,
+      "lowestAsk": 0.00629,
+      "highestBid": 0.005468,
+      "percentChange": 2.0174924776076,
+      "baseVolume": 82.027,
+      "quoteVolume": 13304.38,
+      "high24hr": 0.00655,
+      "low24hr": 0.005458
+    },
+    "stx_eth": {
+      "result": "true",
+      "last": 0.001257,
+      "lowestAsk": 0.001256,
+      "highestBid": 0.001144,
+      "percentChange": 3.8842975207025,
+      "baseVolume": 97.691,
+      "quoteVolume": 81329.635,
+      "high24hr": 0.001288,
+      "low24hr": 0.001101
+    },
+    "knc_eth": {
+      "result": "true",
+      "last": 0.00377,
+      "lowestAsk": 0.003769,
+      "highestBid": 0.0035,
+      "percentChange": 5.0725781328261,
+      "baseVolume": 73.933,
+      "quoteVolume": 19706.34,
+      "high24hr": 0.004084,
+      "low24hr": 0.003412
+    },
+    "link_eth": {
+      "result": "true",
+      "last": 0.000754,
+      "lowestAsk": 0.000859,
+      "highestBid": 0.00076,
+      "percentChange": -0.85365976249756,
+      "baseVolume": 41.782,
+      "quoteVolume": 47703.225,
+      "high24hr": 0.000997,
+      "low24hr": 0.00081
+    },
+    "req_eth": {
+      "result": "true",
+      "last": 0.000826,
+      "lowestAsk": 0.000826,
+      "highestBid": 0.000828,
+      "percentChange": -18.845807382273,
+      "baseVolume": 59.85,
+      "quoteVolume": 62552.742,
+      "high24hr": 0.001344,
+      "low24hr": 0.000702
+    },
+    "rcn_eth": {
+      "result": "true",
+      "last": 0.000421,
+      "lowestAsk": 0.000477,
+      "highestBid": 0.00042,
+      "percentChange": -13.593144573249,
+      "baseVolume": 12.987,
+      "quoteVolume": 26600.491,
+      "high24hr": 0.000518,
+      "low24hr": 0.000445
+    },
+    "trx_eth": {
+      "result": "true",
+      "last": "0.00006050",
+      "lowestAsk": "0.00006044",
+      "highestBid": "0.00005830",
+      "percentChange": -8.5550307509462,
+      "baseVolume": 484.669,
+      "quoteVolume": 7906140.13,
+      "high24hr": "0.00006854",
+      "low24hr": "0.00005615"
+    },
+    "arn_eth": {
+      "result": "true",
+      "last": 0.001363,
+      "lowestAsk": 0.001334,
+      "highestBid": 0.00081,
+      "percentChange": 19.456617064145,
+      "baseVolume": 4.257,
+      "quoteVolume": 3562.114,
+      "high24hr": 0.001363,
+      "low24hr": 0.00076
+    },
+    "kick_eth": {
+      "result": "true",
+      "last": "0.00007500",
+      "lowestAsk": "0.00007580",
+      "highestBid": "0.00007500",
+      "percentChange": 4.7486033519553,
+      "baseVolume": 115.406,
+      "quoteVolume": 1518153.56,
+      "high24hr": "0.00009050",
+      "low24hr": "0.00006820"
+    },
+    "bnt_eth": {
+      "result": "true",
+      "last": 0.006951,
+      "lowestAsk": 0.006909,
+      "highestBid": 0.006131,
+      "percentChange": -2.0295983086681,
+      "baseVolume": 1.152,
+      "quoteVolume": 172.114,
+      "high24hr": 0.00716,
+      "low24hr": 0.006057
+    },
+    "ven_eth": {
+      "result": "true",
+      "last": 0.0027,
+      "lowestAsk": 0.002929,
+      "highestBid": 0.002678,
+      "percentChange": -6.9049365940493,
+      "baseVolume": 102.775,
+      "quoteVolume": 33075.869,
+      "high24hr": 0.003452,
+      "low24hr": 0.002683
+    },
+    "mco_eth": {
+      "result": "true",
+      "last": 0.017999,
+      "lowestAsk": 0.017998,
+      "highestBid": 0.011357,
+      "percentChange": -9.7789471428672,
+      "baseVolume": 4.601,
+      "quoteVolume": 231.963,
+      "high24hr": 0.021892,
+      "low24hr": 0.017999
+    },
+    "fun_eth": {
+      "result": "true",
+      "last": 0.00011,
+      "lowestAsk": 0.000113,
+      "highestBid": "0.00009200",
+      "percentChange": -7.563025210084,
+      "baseVolume": 7.793,
+      "quoteVolume": 69086.807,
+      "high24hr": 0.000135,
+      "low24hr": "0.00008900"
+    },
+    "data_eth": {
+      "result": "true",
+      "last": 0.000251,
+      "lowestAsk": 0.000262,
+      "highestBid": 0.00025,
+      "percentChange": -7.0370740740741,
+      "baseVolume": 38.367,
+      "quoteVolume": 136979.059,
+      "high24hr": 0.000298,
+      "low24hr": 0.000251
+    },
+    "rlc_eth": {
+      "result": "true",
+      "last": 0.002305,
+      "lowestAsk": 0.002292,
+      "highestBid": 0.001864,
+      "percentChange": 28.055555487261,
+      "baseVolume": 14.856,
+      "quoteVolume": 7339.778,
+      "high24hr": 0.002305,
+      "low24hr": 0.001581
+    },
+    "zsc_eth": {
+      "result": "true",
+      "last": "0.00003800",
+      "lowestAsk": "0.00004000",
+      "highestBid": "0.00003700",
+      "percentChange": -13.636364028125,
+      "baseVolume": 254.872,
+      "quoteVolume": 6117114.473,
+      "high24hr": "0.00004400",
+      "low24hr": "0.00003900"
+    },
+    "wings_eth": {
+      "result": "true",
+      "last": 0.001513,
+      "lowestAsk": 0.001506,
+      "highestBid": 0.001385,
+      "percentChange": -5.3783614697373,
+      "baseVolume": 1.372,
+      "quoteVolume": 881.972,
+      "high24hr": 0.001729,
+      "low24hr": 0.001441
+    },
+    "ctr_eth": {
+      "result": "true",
+      "last": 0.002566,
+      "lowestAsk": 0.002566,
+      "highestBid": 0.002214,
+      "percentChange": -4.892512969596,
+      "baseVolume": 9.322,
+      "quoteVolume": 3314.795,
+      "high24hr": 0.003113,
+      "low24hr": 0.002566
+    },
+    "mda_eth": {
+      "result": "true",
+      "last": 0.00273,
+      "lowestAsk": 0.002998,
+      "highestBid": 0.00273,
+      "percentChange": -3.6908120431964,
+      "baseVolume": 27.737,
+      "quoteVolume": 9561.437,
+      "high24hr": 0.003299,
+      "low24hr": 0.002716
+    },
+    "rcn_usdt": {
+      "result": "true",
+      "last": 0.373,
+      "lowestAsk": 0.378,
+      "highestBid": 0.3702,
+      "percentChange": 1.5775399944626,
+      "baseVolume": 93424.7159,
+      "quoteVolume": 260991.5492,
+      "high24hr": 0.382,
+      "low24hr": 0.3242
+    },
+    "trx_usdt": {
+      "result": "true",
+      "last": 0.051,
+      "lowestAsk": 0.051,
+      "highestBid": 0.05098,
+      "percentChange": 7.54283326743,
+      "baseVolume": 1760191.784,
+      "quoteVolume": 37977778.71,
+      "high24hr": 0.05294,
+      "low24hr": 0.04048
+    },
+    "kick_usdt": {
+      "result": "true",
+      "last": 0.0644,
+      "lowestAsk": 0.0655,
+      "highestBid": 0.0649,
+      "percentChange": 23.653846153846,
+      "baseVolume": 136529.414,
+      "quoteVolume": 2317039.93,
+      "high24hr": 0.0715,
+      "low24hr": 0.0503
+    },
+    "ven_usdt": {
+      "result": "true",
+      "last": 2.4291,
+      "lowestAsk": 2.45,
+      "highestBid": 2.4291,
+      "percentChange": 16.69530333887,
+      "baseVolume": 363067.1665,
+      "quoteVolume": 158939.5937,
+      "high24hr": 2.4771,
+      "low24hr": 2.0637
+    },
+    "mco_usdt": {
+      "result": "true",
+      "last": 15.369,
+      "lowestAsk": 15.3845,
+      "highestBid": 14.8,
+      "percentChange": 5.9931034482759,
+      "baseVolume": 13935.7171,
+      "quoteVolume": 932.7132,
+      "high24hr": 15.4987,
+      "low24hr": 14.101
+    },
+    "fun_usdt": {
+      "result": "true",
+      "last": 0.0902,
+      "lowestAsk": 0.0902,
+      "highestBid": 0.0887,
+      "percentChange": -6.729758149428,
+      "baseVolume": 129465.2517,
+      "quoteVolume": 1463569.9518,
+      "high24hr": 0.096,
+      "low24hr": 0.084
+    },
+    "data_usdt": {
+      "result": "true",
+      "last": 0.2161,
+      "lowestAsk": 0.2162,
+      "highestBid": 0.2161,
+      "percentChange": 6.0903732704862,
+      "baseVolume": 84298.9757,
+      "quoteVolume": 398449.155,
+      "high24hr": 0.2196,
+      "low24hr": 0.1948
+    },
+    "zsc_usdt": {
+      "result": "true",
+      "last": 0.0324,
+      "lowestAsk": 0.0324,
+      "highestBid": 0.0323,
+      "percentChange": 1.2461936008193,
+      "baseVolume": 243349.6345,
+      "quoteVolume": 7637985.8376,
+      "high24hr": 0.0336,
+      "low24hr": 0.0301
+    },
+    "ctr_usdt": {
+      "result": "true",
+      "last": 2.1982,
+      "lowestAsk": 2.196,
+      "highestBid": 2.15,
+      "percentChange": 10.740554156171,
+      "baseVolume": 58779.6679,
+      "quoteVolume": 28962.3081,
+      "high24hr": 2.2009,
+      "low24hr": 1.8842
+    },
+    "mda_usdt": {
+      "result": "true",
+      "last": 2.3865,
+      "lowestAsk": 2.384,
+      "highestBid": 2.3726,
+      "percentChange": 17.503693233008,
+      "baseVolume": 117923.779,
+      "quoteVolume": 54511.1748,
+      "high24hr": 2.389,
+      "low24hr": 1.997
+    },
+    "xtz_usdt": {
+      "result": "true",
+      "last": 4.8633,
+      "lowestAsk": 4.8649,
+      "highestBid": 4.7131,
+      "percentChange": 19.700213977533,
+      "baseVolume": 24431.1004,
+      "quoteVolume": 5623.5281,
+      "high24hr": 4.8649,
+      "low24hr": 3.8052
+    },
+    "gnt_usdt": {
+      "result": "true",
+      "last": 0.94,
+      "lowestAsk": 0.9453,
+      "highestBid": 0.9388,
+      "percentChange": 18.147731533938,
+      "baseVolume": 158383.6447,
+      "quoteVolume": 184437.3471,
+      "high24hr": 0.9499,
+      "low24hr": 0.75
+    },
+    "gnt_eth": {
+      "result": "true",
+      "last": 0.000982,
+      "lowestAsk": 0.001176,
+      "highestBid": 0.000985,
+      "percentChange": -10.319634922256,
+      "baseVolume": 20.947,
+      "quoteVolume": 17868.676,
+      "high24hr": 0.001278,
+      "low24hr": 0.000975
+    },
+    "mkr_usdt": {
+      "result": "true",
+      "last": 998.98,
+      "lowestAsk": 998.99,
+      "highestBid": 951.68,
+      "percentChange": 4.0138269053736,
+      "baseVolume": 2553.1,
+      "quoteVolume": 2.569514,
+      "high24hr": 1156.57,
+      "low24hr": 960.21
+    },
+    "mkr_eth": {
+      "result": "true",
+      "last": 1.26,
+      "lowestAsk": 1.9,
+      "highestBid": 0.0211,
+      "percentChange": -33.684210526316,
+      "baseVolume": 0.96,
+      "quoteVolume": 0.620088,
+      "high24hr": 2.079,
+      "low24hr": 1.26
+    },
+    "dai_usdt": {
+      "result": "true",
+      "last": 0.968,
+      "lowestAsk": 0.979,
+      "highestBid": 0.965,
+      "percentChange": 0.17592879686743,
+      "baseVolume": 16767.615,
+      "quoteVolume": 17266.406,
+      "high24hr": 0.99,
+      "low24hr": 0.9353
+    },
+    "smt_usdt": {
+      "result": "true",
+      "last": 0.0667,
+      "lowestAsk": 0.0667,
+      "highestBid": 0.0656,
+      "percentChange": 25.478927203065,
+      "baseVolume": 1334271.9173,
+      "quoteVolume": 21999081.654,
+      "high24hr": 0.0714,
+      "low24hr": 0.0511
+    },
+    "smt_eth": {
+      "result": "true",
+      "last": "0.00007700",
+      "lowestAsk": "0.00007800",
+      "highestBid": "0.00007700",
+      "percentChange": 5.4794448145041,
+      "baseVolume": 446.408,
+      "quoteVolume": 5540689.833,
+      "high24hr": "0.00009200",
+      "low24hr": "0.00007100"
+    },
+    "mana_usdt": {
+      "result": "true",
+      "last": 0.1044,
+      "lowestAsk": 0.1044,
+      "highestBid": 0.1042,
+      "percentChange": 5.6842105263158,
+      "baseVolume": 177948.2599,
+      "quoteVolume": 1782157.9518,
+      "high24hr": 0.1056,
+      "low24hr": 0.0938
+    },
+    "mana_eth": {
+      "result": "true",
+      "last": 0.000122,
+      "lowestAsk": 0.000122,
+      "highestBid": 0.000118,
+      "percentChange": -11.194035975843,
+      "baseVolume": 24.852,
+      "quoteVolume": 188117.152,
+      "high24hr": 0.00014,
+      "low24hr": 0.000119
+    },
+    "lun_usdt": {
+      "result": "true",
+      "last": "0.00000000",
+      "lowestAsk": "0.00000000",
+      "highestBid": "0.00000000",
+      "percentChange": 0,
+      "baseVolume": "0.00000000",
+      "quoteVolume": "0.00000000",
+      "high24hr": "0.00000000",
+      "low24hr": "0.00000000"
+    },
+    "lun_eth": {
+      "result": "true",
+      "last": 0.026396,
+      "lowestAsk": 0.027499,
+      "highestBid": 0.026396,
+      "percentChange": -17.520175201752,
+      "baseVolume": 6.9,
+      "quoteVolume": 219.861,
+      "high24hr": 0.03408,
+      "low24hr": 0.026134
+    },
+    "salt_usdt": {
+      "result": "true",
+      "last": "0.00000000",
+      "lowestAsk": "0.00000000",
+      "highestBid": "0.00000000",
+      "percentChange": 0,
+      "baseVolume": "0.00000000",
+      "quoteVolume": "0.00000000",
+      "high24hr": "0.00000000",
+      "low24hr": "0.00000000"
+    },
+    "salt_eth": {
+      "result": "true",
+      "last": 0.01387,
+      "lowestAsk": 0.013852,
+      "highestBid": 0.013626,
+      "percentChange": -17.744039852924,
+      "baseVolume": 6.707,
+      "quoteVolume": 421.155,
+      "high24hr": 0.01852,
+      "low24hr": 0.01387
+    },
+    "fuel_usdt": {
+      "result": "true",
+      "last": "0.00000000",
+      "lowestAsk": "0.00000000",
+      "highestBid": "0.00000000",
+      "percentChange": 0,
+      "baseVolume": "0.00000000",
+      "quoteVolume": "0.00000000",
+      "high24hr": "0.00000000",
+      "low24hr": "0.00000000"
+    },
+    "fuel_eth": {
+      "result": "true",
+      "last": 0.00025,
+      "lowestAsk": "0.00000000",
+      "highestBid": 0.000254,
+      "percentChange": -3.8461538461538,
+      "baseVolume": 0.017,
+      "quoteVolume": 61,
+      "high24hr": 0.000285,
+      "low24hr": 0.00025
+    },
+    "elf_usdt": {
+      "result": "true",
+      "last": 1.05,
+      "lowestAsk": 1.1,
+      "highestBid": 1,
+      "percentChange": 0,
+      "baseVolume": "0.00000000",
+      "quoteVolume": "0.00000000",
+      "high24hr": 1.1,
+      "low24hr": 1
+    },
+    "elf_eth": {
+      "result": "true",
+      "last": 0.001222,
+      "lowestAsk": 0.001213,
+      "highestBid": 0.00119,
+      "percentChange": -8.8059701492537,
+      "baseVolume": 15.285,
+      "quoteVolume": 11335.556,
+      "high24hr": 0.001473,
+      "low24hr": 0.0012
+    },
+    "bnty_usdt": {
+      "result": "true",
+      "last": 0.1667,
+      "lowestAsk": 0.1667,
+      "highestBid": 0.1607,
+      "percentChange": 0.72507552870089,
+      "baseVolume": 156524.0796,
+      "quoteVolume": 936332.2257,
+      "high24hr": 0.1814,
+      "low24hr": 0.152
+    },
+    "bnty_eth": {
+      "result": "true",
+      "last": 0.000198,
+      "lowestAsk": 0.0002,
+      "highestBid": 0.00019,
+      "percentChange": -15.744683003183,
+      "baseVolume": 12.711,
+      "quoteVolume": 56669.447,
+      "high24hr": 0.000253,
+      "low24hr": 0.000198
+    },
+    "lend_usdt": {
+      "result": "true",
+      "last": 0.17,
+      "lowestAsk": 0.1745,
+      "highestBid": 0.1701,
+      "percentChange": 0.41346721786768,
+      "baseVolume": 519354.7582,
+      "quoteVolume": 3098075.896,
+      "high24hr": 0.1824,
+      "low24hr": 0.1545
+    },
+    "lend_eth": {
+      "result": "true",
+      "last": 0.0002,
+      "lowestAsk": 0.000207,
+      "highestBid": 0.0002,
+      "percentChange": -13.793104883659,
+      "baseVolume": 56.16,
+      "quoteVolume": 250216.529,
+      "high24hr": 0.000243,
+      "low24hr": 0.0002
+    },
+    "icx_usdt": {
+      "result": "true",
+      "last": 6.6,
+      "lowestAsk": 6.6,
+      "highestBid": 6.3686,
+      "percentChange": 24.553890605068,
+      "baseVolume": 21961.3965,
+      "quoteVolume": 3935.6017,
+      "high24hr": 6.7588,
+      "low24hr": 5.068
+    },
+    "icx_eth": {
+      "result": "true",
+      "last": 0.007684,
+      "lowestAsk": 0.007684,
+      "highestBid": 0.0075,
+      "percentChange": 4.3669321614941,
+      "baseVolume": 36.296,
+      "quoteVolume": 4840.096,
+      "high24hr": 0.00855,
+      "low24hr": 0.006857
+    },
+    "btf_usdt": {
+      "result": "true",
+      "last": 91.47,
+      "lowestAsk": 92.88,
+      "highestBid": 91.47,
+      "percentChange": -8.7447247031112,
+      "baseVolume": 52440.72,
+      "quoteVolume": 572.2435,
+      "high24hr": 104.18,
+      "low24hr": 85.45
+    },
+    "btf_btc": {
+      "result": "true",
+      "last": 0.0067,
+      "lowestAsk": 0.0075,
+      "highestBid": 0.0068,
+      "percentChange": -5.6338927678845,
+      "baseVolume": 0.0581,
+      "quoteVolume": 8.184,
+      "high24hr": 0.0075,
+      "low24hr": 0.0066
+    },
+    "ada_usdt": {
+      "result": "true",
+      "last": 1.483,
+      "lowestAsk": 1.5086,
+      "highestBid": 1.4803,
+      "percentChange": 13.599816215468,
+      "baseVolume": 167141.4637,
+      "quoteVolume": 120595.6973,
+      "high24hr": 1.5519,
+      "low24hr": 1.21
+    },
+    "ada_btc": {
+      "result": "true",
+      "last": 0.00012118,
+      "lowestAsk": 0.00012118,
+      "highestBid": 0.00010209,
+      "percentChange": 12.895037476359,
+      "baseVolume": 5.39194,
+      "quoteVolume": 51734.646,
+      "high24hr": 0.00012266,
+      "low24hr": "0.00009949"
+    },
+    "lsk_usdt": {
+      "result": "true",
+      "last": 20.27,
+      "lowestAsk": 21.46,
+      "highestBid": 20.1,
+      "percentChange": 1.5022533800701,
+      "baseVolume": 6197.68,
+      "quoteVolume": 314.004,
+      "high24hr": 21.42,
+      "low24hr": 19.07
+    },
+    "lsk_btc": {
+      "result": "true",
+      "last": 0.001569,
+      "lowestAsk": 0.001598,
+      "highestBid": 0.00155,
+      "percentChange": 8.1688223281144,
+      "baseVolume": 0.6807,
+      "quoteVolume": 445.481,
+      "high24hr": 0.001589,
+      "low24hr": 0.001469
+    },
+    "waves_usdt": {
+      "result": "true",
+      "last": 12.49,
+      "lowestAsk": 12.47,
+      "highestBid": 12.31,
+      "percentChange": 1.133603361587,
+      "baseVolume": 9372.84,
+      "quoteVolume": 750.471,
+      "high24hr": 13.44,
+      "low24hr": 12.03
+    },
+    "waves_btc": {
+      "result": "true",
+      "last": 0.000927,
+      "lowestAsk": 0.000938,
+      "highestBid": 0.000932,
+      "percentChange": 2.3179388751788,
+      "baseVolume": 0.448,
+      "quoteVolume": 478.483,
+      "high24hr": 0.001014,
+      "low24hr": 0.000892
+    },
+    "bifi_usdt": {
+      "result": "true",
+      "last": 0.2244,
+      "lowestAsk": 0.2235,
+      "highestBid": 0.2234,
+      "percentChange": -3.1088082901554,
+      "baseVolume": 337939.2211,
+      "quoteVolume": 1493691.741,
+      "high24hr": 0.253,
+      "low24hr": 0.2023
+    },
+    "bifi_btc": {
+      "result": "true",
+      "last": "0.00001619",
+      "lowestAsk": "0.00001691",
+      "highestBid": "0.00001553",
+      "percentChange": -5.3217731971813,
+      "baseVolume": 3.51493,
+      "quoteVolume": 205352.809,
+      "high24hr": "0.00001894",
+      "low24hr": "0.00001550"
+    },
+    "mds_eth": {
+      "result": "true",
+      "last": "0.00006540",
+      "lowestAsk": "0.00006399",
+      "highestBid": "0.00006253",
+      "percentChange": 1.8691285718754,
+      "baseVolume": 598.2199,
+      "quoteVolume": 9333620.61,
+      "high24hr": "0.00006988",
+      "low24hr": "0.00005935"
+    },
+    "mds_usdt": {
+      "result": "true",
+      "last": 0.0557,
+      "lowestAsk": 0.0554,
+      "highestBid": 0.055,
+      "percentChange": 26.077097483093,
+      "baseVolume": 176874.08,
+      "quoteVolume": 3591802.44,
+      "high24hr": 0.056,
+      "low24hr": 0.044
+    },
+    "dgd_usdt": {
+      "result": "true",
+      "last": 162.9941,
+      "lowestAsk": 166.3136,
+      "highestBid": 147.4811,
+      "percentChange": 14.061651504549,
+      "baseVolume": 532.4928,
+      "quoteVolume": 3.4339,
+      "high24hr": 164.1638,
+      "low24hr": 142.33
+    },
+    "dgd_eth": {
+      "result": "true",
+      "last": 0.366,
+      "lowestAsk": 0.366,
+      "highestBid": 0.167367,
+      "percentChange": 74.582504543438,
+      "baseVolume": 0.228,
+      "quoteVolume": 0.816,
+      "high24hr": 0.366001,
+      "low24hr": 0.19685
+    },
+    "qash_usdt": {
+      "result": "true",
+      "last": 0.9071,
+      "lowestAsk": 0.9071,
+      "highestBid": 0.8928,
+      "percentChange": 6.2455388957721,
+      "baseVolume": 206610.8434,
+      "quoteVolume": 236589.0164,
+      "high24hr": 0.9204,
+      "low24hr": 0.8211
+    },
+    "qash_eth": {
+      "result": "true",
+      "last": 0.001036,
+      "lowestAsk": 0.00105,
+      "highestBid": 0.001036,
+      "percentChange": -9.0121317157712,
+      "baseVolume": 307.459,
+      "quoteVolume": 265778.205,
+      "high24hr": 0.001196,
+      "low24hr": 0.00105
+    },
+    "qash_btc": {
+      "result": "true",
+      "last": "0.00006783",
+      "lowestAsk": "0.00006786",
+      "highestBid": "0.00006606",
+      "percentChange": 9.0338705696528,
+      "baseVolume": 8.03717,
+      "quoteVolume": 122504.643,
+      "high24hr": "0.00006855",
+      "low24hr": "0.00006050"
+    },
+    "powr_usdt": {
+      "result": "true",
+      "last": 1.245,
+      "lowestAsk": 1.2437,
+      "highestBid": 1.1321,
+      "percentChange": 21.226874434615,
+      "baseVolume": 44904.186,
+      "quoteVolume": 43726.411,
+      "high24hr": 1.286,
+      "low24hr": 0.8786
+    },
+    "powr_eth": {
+      "result": "true",
+      "last": 0.001332,
+      "lowestAsk": 0.00153,
+      "highestBid": 0.001332,
+      "percentChange": -2.7027027027027,
+      "baseVolume": 26.194,
+      "quoteVolume": 18758.782,
+      "high24hr": 0.00158,
+      "low24hr": 0.001286
+    },
+    "powr_btc": {
+      "result": "true",
+      "last": "0.00008638",
+      "lowestAsk": "0.00009755",
+      "highestBid": "0.00008460",
+      "percentChange": 17.921776587944,
+      "baseVolume": 0.75939,
+      "quoteVolume": 10075.757,
+      "high24hr": "0.00008547",
+      "low24hr": "0.00006286"
+    },
+    "fil_usdt": {
+      "result": "true",
+      "last": 25.6,
+      "lowestAsk": 25.7,
+      "highestBid": 25.6,
+      "percentChange": 4.031465093412,
+      "baseVolume": 175058.47,
+      "quoteVolume": 8617.476,
+      "high24hr": 21.57,
+      "low24hr": 18.99
+    },
+    "bcd_usdt": {
+      "result": "true",
+      "last": 17.11,
+      "lowestAsk": 17.193,
+      "highestBid": 17.11,
+      "percentChange": -11.985596707819,
+      "baseVolume": 2433471.22,
+      "quoteVolume": 144872.821,
+      "high24hr": 19.66,
+      "low24hr": 12.899
+    },
+    "bcd_btc": {
+      "result": "true",
+      "last": 0.001282,
+      "lowestAsk": 0.001285,
+      "highestBid": 0.001279,
+      "percentChange": -11.341558699032,
+      "baseVolume": 69.71561,
+      "quoteVolume": 52357.588,
+      "high24hr": 0.001485,
+      "low24hr": 0.00105
+    },
+    "sbtc_usdt": {
+      "result": "true",
+      "last": 174.62,
+      "lowestAsk": 174.62,
+      "highestBid": 169,
+      "percentChange": -6.877402819308,
+      "baseVolume": 286473.4,
+      "quoteVolume": 1739.4802,
+      "high24hr": 199.6,
+      "low24hr": 125
+    },
+    "sbtc_btc": {
+      "result": "true",
+      "last": 0.01186,
+      "lowestAsk": 0.01278,
+      "highestBid": 0.01035,
+      "percentChange": -14.244607401793,
+      "baseVolume": 23.8924,
+      "quoteVolume": 2174.6872,
+      "high24hr": 0.0146,
+      "low24hr": "0.00002000"
+    },
+    "god_usdt": {
+      "result": "true",
+      "last": 143.83,
+      "lowestAsk": 145.9,
+      "highestBid": 144,
+      "percentChange": -12.565349544073,
+      "baseVolume": 102437.1,
+      "quoteVolume": 685.4157,
+      "high24hr": 166.22,
+      "low24hr": 134.05
+    },
+    "god_btc": {
+      "result": "true",
+      "last": 0.01101,
+      "lowestAsk": 0.01137,
+      "highestBid": 0.0105,
+      "percentChange": -10.994825215174,
+      "baseVolume": 1.67781,
+      "quoteVolume": 144.0839,
+      "high24hr": 0.01297,
+      "low24hr": 0.01005
+    },
+    "bcx_usdt": {
+      "result": "true",
+      "last": 0.0557,
+      "lowestAsk": 0.0558,
+      "highestBid": 0.0557,
+      "percentChange": -1.4134275618374,
+      "baseVolume": 196995.4651,
+      "quoteVolume": 3567511.986,
+      "high24hr": 0.0597,
+      "low24hr": 0.0519
+    },
+    "bcx_btc": {
+      "result": "true",
+      "last": "0.00000403",
+      "lowestAsk": "0.00000413",
+      "highestBid": "0.00000395",
+      "percentChange": -2.8915662649759,
+      "baseVolume": 3.49463,
+      "quoteVolume": 825802.904,
+      "high24hr": "0.00000480",
+      "low24hr": "0.00000396"
+    },
+    "hsr_usdt": {
+      "result": "true",
+      "last": 25.9,
+      "lowestAsk": 25.9,
+      "highestBid": 25.8,
+      "percentChange": -6.5579710144928,
+      "baseVolume": 879591.86,
+      "quoteVolume": 33814.9472,
+      "high24hr": 28.16,
+      "low24hr": 24.21
+    },
+    "hsr_btc": {
+      "result": "true",
+      "last": 0.001952,
+      "lowestAsk": 0.00202898,
+      "highestBid": 0.001889,
+      "percentChange": -5.5636187276439,
+      "baseVolume": 8.95179,
+      "quoteVolume": 4518.475,
+      "high24hr": 0.00217799,
+      "low24hr": 0.00188103
+    },
+    "hsr_eth": {
+      "result": "true",
+      "last": 0.0298,
+      "lowestAsk": 0.0298,
+      "highestBid": 0.028616,
+      "percentChange": -21.989528795812,
+      "baseVolume": 119.412,
+      "quoteVolume": 3485.071,
+      "high24hr": 0.038776,
+      "low24hr": 0.0298
+    },
+    "qsp_usdt": {
+      "result": "true",
+      "last": 0.3801,
+      "lowestAsk": 0.4395,
+      "highestBid": 0.3806,
+      "percentChange": 26.191198764816,
+      "baseVolume": 237750.512,
+      "quoteVolume": 631236.9816,
+      "high24hr": 0.469,
+      "low24hr": 0.2989
+    },
+    "qsp_eth": {
+      "result": "true",
+      "last": 0.000502,
+      "lowestAsk": 0.000502,
+      "highestBid": 0.000408,
+      "percentChange": 5.1948051948052,
+      "baseVolume": 107.06,
+      "quoteVolume": 223660.353,
+      "high24hr": 0.00059,
+      "low24hr": 0.000405
+    },
+    "ink_btc": {
+      "result": "true",
+      "last": "0.00004263",
+      "lowestAsk": "0.00004342",
+      "highestBid": "0.00004263",
+      "percentChange": 1.6229116945155,
+      "baseVolume": 152.93324,
+      "quoteVolume": 3689324.088,
+      "high24hr": "0.00004251",
+      "low24hr": "0.00004000"
+    },
+    "ink_usdt": {
+      "result": "true",
+      "last": 0.5705,
+      "lowestAsk": 0.5756,
+      "highestBid": 0.5684,
+      "percentChange": 3.8208409514077,
+      "baseVolume": 260882.9424,
+      "quoteVolume": 477384.5461,
+      "high24hr": 0.5774,
+      "low24hr": 0.52
+    },
+    "ink_eth": {
+      "result": "true",
+      "last": 0.000665,
+      "lowestAsk": 0.000678,
+      "highestBid": 0.000665,
+      "percentChange": -12.746386543184,
+      "baseVolume": 77.944,
+      "quoteVolume": 107619.773,
+      "high24hr": 0.000765,
+      "low24hr": 0.000664
+    },
+    "ink_qtum": {
+      "result": "true",
+      "last": 0.01048,
+      "lowestAsk": 0.01186,
+      "highestBid": 0.00911,
+      "percentChange": -12.154233025985,
+      "baseVolume": 20.424,
+      "quoteVolume": 1852.921,
+      "high24hr": 0.01187,
+      "low24hr": 0.00909
+    },
+    "med_qtum": {
+      "result": "true",
+      "last": 0.00089956,
+      "lowestAsk": 0.00089956,
+      "highestBid": 0.00089955,
+      "percentChange": -3.6182272686274,
+      "baseVolume": 1100.9545,
+      "quoteVolume": 1270290.598,
+      "high24hr": 0.0009399,
+      "low24hr": 0.00080792
+    },
+    "med_eth": {
+      "result": "true",
+      "last": "0.00005400",
+      "lowestAsk": "0.00005400",
+      "highestBid": "0.00005300",
+      "percentChange": -18.18188190995,
+      "baseVolume": 202.491,
+      "quoteVolume": 3439703.573,
+      "high24hr": "0.00006600",
+      "low24hr": "0.00005300"
+    },
+    "bot_qtum": {
+      "result": "true",
+      "last": 0.01951,
+      "lowestAsk": 0.01951,
+      "highestBid": 0.0195,
+      "percentChange": 1.1404872991187,
+      "baseVolume": 3767.323,
+      "quoteVolume": 197584.935,
+      "high24hr": 0.02134,
+      "low24hr": 0.0188
+    },
+    "bot_usdt": {
+      "result": "true",
+      "last": 1.0578,
+      "lowestAsk": 1.0579,
+      "highestBid": 1.0578,
+      "percentChange": 5.1704948018618,
+      "baseVolume": 520808.9901,
+      "quoteVolume": 531471.821,
+      "high24hr": 1.0394,
+      "low24hr": 0.9299
+    },
+    "bot_eth": {
+      "result": "true",
+      "last": 0.001201,
+      "lowestAsk": 0.001232,
+      "highestBid": 0.001195,
+      "percentChange": -10.84697780234,
+      "baseVolume": 149.677,
+      "quoteVolume": 115367.601,
+      "high24hr": 0.001372,
+      "low24hr": 0.0012
+    },
+    "qbt_qtum": {
+      "result": "true",
+      "last": 0.01409,
+      "lowestAsk": 0.01409,
+      "highestBid": 0.01336,
+      "percentChange": 13.354786806114,
+      "baseVolume": 3522.435,
+      "quoteVolume": 267883.069,
+      "high24hr": 0.01415,
+      "low24hr": 0.01161
+    },
+    "qbt_eth": {
+      "result": "true",
+      "last": 0.000866,
+      "lowestAsk": 0.00086,
+      "highestBid": 0.000854,
+      "percentChange": 3.7125652687329,
+      "baseVolume": 38.062,
+      "quoteVolume": 42346.974,
+      "high24hr": 0.00093,
+      "low24hr": 0.000822
+    },
+    "qbt_usdt": {
+      "result": "true",
+      "last": 0.736,
+      "lowestAsk": 0.7392,
+      "highestBid": 0.736,
+      "percentChange": 21.172425085967,
+      "baseVolume": 52682.4954,
+      "quoteVolume": 80215.6903,
+      "high24hr": 0.74,
+      "low24hr": 0.6107
+    },
+    "tsl_qtum": {
+      "result": "true",
+      "last": 0.002,
+      "lowestAsk": 0.0022,
+      "highestBid": 0.002,
+      "percentChange": -1.9607850109216,
+      "baseVolume": 776.7,
+      "quoteVolume": 402845.375,
+      "high24hr": 0.0023,
+      "low24hr": 0.00185
+    },
+    "tsl_usdt": {
+      "result": "true",
+      "last": 0.1034,
+      "lowestAsk": 0.1034,
+      "highestBid": 0.1033,
+      "percentChange": 2.4801585614484,
+      "baseVolume": 341011.4296,
+      "quoteVolume": 3448636.238,
+      "high24hr": 0.1064,
+      "low24hr": 0.0931
+    },
+    "neo_usdt": {
+      "result": "true",
+      "last": 80.4,
+      "lowestAsk": 80.4,
+      "highestBid": 80.32,
+      "percentChange": 11.267024349979,
+      "baseVolume": 140459.63,
+      "quoteVolume": 1851.9518,
+      "high24hr": 81,
+      "low24hr": 71.6
+    },
+    "gas_usdt": {
+      "result": "true",
+      "last": 30.11,
+      "lowestAsk": 31.48,
+      "highestBid": 30.08,
+      "percentChange": 0.26640026091575,
+      "baseVolume": 21931.82,
+      "quoteVolume": 717.6768,
+      "high24hr": 31.82,
+      "low24hr": 29.11
+    },
+    "neo_btc": {
+      "result": "true",
+      "last": 0.00600013,
+      "lowestAsk": 0.00617633,
+      "highestBid": 0.00600018,
+      "percentChange": 8.7345478401664,
+      "baseVolume": 3.96185,
+      "quoteVolume": 700.284,
+      "high24hr": 0.006,
+      "low24hr": 0.00540004
+    },
+    "gas_btc": {
+      "result": "true",
+      "last": 0.00252896,
+      "lowestAsk": 0.00252886,
+      "highestBid": 0.00219663,
+      "percentChange": 12.084356583074,
+      "baseVolume": 0.15812,
+      "quoteVolume": 64.704,
+      "high24hr": 0.00279452,
+      "low24hr": 0.00222003
+    },
+    "iota_usdt": {
+      "result": "true",
+      "last": 3.9728,
+      "lowestAsk": 3.9676,
+      "highestBid": 3.967,
+      "percentChange": 12.544004827009,
+      "baseVolume": 132080.4351,
+      "quoteVolume": 35334.9206,
+      "high24hr": 4.1255,
+      "low24hr": 3.34
+    },
+    "iota_btc": {
+      "result": "true",
+      "last": 0.00031174,
+      "lowestAsk": 0.00030892,
+      "highestBid": 0.00028923,
+      "percentChange": 15.459256679474,
+      "baseVolume": 4.51249,
+      "quoteVolume": 15925.104,
+      "high24hr": 0.00031728,
+      "low24hr": 0.00025601
+    },
+    "nas_usdt": {
+      "result": "true",
+      "last": 5.2849,
+      "lowestAsk": 5.2836,
+      "highestBid": 5.264,
+      "percentChange": 0.23143361472142,
+      "baseVolume": 1335481.9127,
+      "quoteVolume": 257292.9063,
+      "high24hr": 5.4348,
+      "low24hr": 5
+    },
+    "nas_eth": {
+      "result": "true",
+      "last": 0.00611,
+      "lowestAsk": 0.006158,
+      "highestBid": 0.00611,
+      "percentChange": -16.424401188526,
+      "baseVolume": 1433.105,
+      "quoteVolume": 206525.962,
+      "high24hr": 0.007494,
+      "low24hr": 0.00621
+    },
+    "nas_btc": {
+      "result": "true",
+      "last": 0.0003996,
+      "lowestAsk": 0.000406,
+      "highestBid": 0.0003919,
+      "percentChange": -0.19991726824176,
+      "baseVolume": 19.2665,
+      "quoteVolume": 48420.755,
+      "high24hr": 0.0004143,
+      "low24hr": 0.00038
+    },
+    "eth_btc": {
+      "result": "true",
+      "last": 0.064767,
+      "lowestAsk": 0.065535,
+      "highestBid": 0.064767,
+      "percentChange": 18.960751796573,
+      "baseVolume": 125.5759,
+      "quoteVolume": 2211.356,
+      "high24hr": 0.06594,
+      "low24hr": 0.053887
+    },
+    "etc_btc": {
+      "result": "true",
+      "last": 0.002311,
+      "lowestAsk": 0.002311,
+      "highestBid": 0.00229,
+      "percentChange": 16.066897585215,
+      "baseVolume": 15.5715,
+      "quoteVolume": 7067.538,
+      "high24hr": 0.00237,
+      "low24hr": 0.00191
+    },
+    "etc_eth": {
+      "result": "true",
+      "last": 0.03537,
+      "lowestAsk": 0.03537,
+      "highestBid": 0.03537,
+      "percentChange": -1.0848673813787,
+      "baseVolume": 152.279,
+      "quoteVolume": 3888.139,
+      "high24hr": 0.04322,
+      "low24hr": 0.035279
+    },
+    "zec_btc": {
+      "result": "true",
+      "last": 0.039,
+      "lowestAsk": 0.0396,
+      "highestBid": 0.039,
+      "percentChange": 14.369501466276,
+      "baseVolume": 8.7385,
+      "quoteVolume": 227.72951,
+      "high24hr": 0.0406,
+      "low24hr": 0.0341
+    },
+    "dash_btc": {
+      "result": "true",
+      "last": 0.07872,
+      "lowestAsk": 0.08,
+      "highestBid": 0.07802,
+      "percentChange": 6.3496464405323,
+      "baseVolume": 2.0205,
+      "quoteVolume": 26.8283,
+      "high24hr": 0.07872,
+      "low24hr": 0.07301
+    },
+    "ltc_btc": {
+      "result": "true",
+      "last": 0.01845,
+      "lowestAsk": 0.01845,
+      "highestBid": 0.01829,
+      "percentChange": 14.073754651593,
+      "baseVolume": 10.10819,
+      "quoteVolume": 602.2158,
+      "high24hr": 0.0182,
+      "low24hr": 0.0162
+    },
+    "bch_btc": {
+      "result": "true",
+      "last": 0.1772,
+      "lowestAsk": 0.1772,
+      "highestBid": 0.1764,
+      "percentChange": 1.6753176723108,
+      "baseVolume": 12.4428,
+      "quoteVolume": 71.378,
+      "high24hr": 0.1769,
+      "low24hr": 0.1706
+    },
+    "btg_btc": {
+      "result": "true",
+      "last": 0.0175,
+      "lowestAsk": 0.0178,
+      "highestBid": 0.0174,
+      "percentChange": -0.00011395592572746,
+      "baseVolume": 13.8803,
+      "quoteVolume": 783.551,
+      "high24hr": 0.0192,
+      "low24hr": 0.0168
+    },
+    "qtum_btc": {
+      "result": "true",
+      "last": 0.00388,
+      "lowestAsk": 0.00388,
+      "highestBid": 0.003761,
+      "percentChange": 1.5991260488433,
+      "baseVolume": 52.8507,
+      "quoteVolume": 13720.623,
+      "high24hr": 0.004057,
+      "low24hr": 0.00372
+    },
+    "qtum_eth": {
+      "result": "true",
+      "last": 0.05997,
+      "lowestAsk": 0.05997,
+      "highestBid": 0.05997,
+      "percentChange": -14.4141572713,
+      "baseVolume": 488.904,
+      "quoteVolume": 7237.785,
+      "high24hr": 0.07305,
+      "low24hr": 0.05997
+    },
+    "xrp_btc": {
+      "result": "true",
+      "last": 0.0001679,
+      "lowestAsk": 0.0001699,
+      "highestBid": 0.0001654,
+      "percentChange": 0.71983517785242,
+      "baseVolume": 3.5659,
+      "quoteVolume": 21164.992,
+      "high24hr": 0.0001829,
+      "low24hr": 0.000161
+    },
+    "doge_btc": {
+      "result": "true",
+      "last": "0.00000065",
+      "lowestAsk": "0.00000065",
+      "highestBid": "0.00000064",
+      "percentChange": 1.5624997211687,
+      "baseVolume": 32.55057,
+      "quoteVolume": 51155696.1,
+      "high24hr": "0.00000066",
+      "low24hr": "0.00000062"
+    },
+    "xmr_btc": {
+      "result": "true",
+      "last": 0.02577059,
+      "lowestAsk": 0.02649824,
+      "highestBid": 0.02494378,
+      "percentChange": 6.6209433468982,
+      "baseVolume": 2.49798,
+      "quoteVolume": 100.413,
+      "high24hr": 0.02589966,
+      "low24hr": 0.02382554
+    },
+    "zrx_btc": {
+      "result": "true",
+      "last": "0.00007190",
+      "lowestAsk": "0.00007750",
+      "highestBid": "0.00006840",
+      "percentChange": 8.7744050297958,
+      "baseVolume": 0.46,
+      "quoteVolume": 6661.49,
+      "high24hr": "0.00008150",
+      "low24hr": "0.00006470"
+    },
+    "zrx_eth": {
+      "result": "true",
+      "last": 0.00112,
+      "lowestAsk": 0.00113,
+      "highestBid": 0.0011,
+      "percentChange": -8.2719082719083,
+      "baseVolume": 53.601,
+      "quoteVolume": 42987.188,
+      "high24hr": 0.001399,
+      "low24hr": 0.00112
+    },
+    "dnt_eth": {
+      "result": "true",
+      "last": 0.000185,
+      "lowestAsk": 0.000201,
+      "highestBid": 0.000185,
+      "percentChange": -4.1450777202073,
+      "baseVolume": 35.1764,
+      "quoteVolume": 175563.96,
+      "high24hr": 0.000224,
+      "low24hr": 0.000169
+    },
+    "dpy_eth": {
+      "result": "true",
+      "last": 0.004009,
+      "lowestAsk": 0.004088,
+      "highestBid": 0.004009,
+      "percentChange": -11.442478529026,
+      "baseVolume": 78.83,
+      "quoteVolume": 18342.689,
+      "high24hr": 0.004671,
+      "low24hr": 0.004009
+    },
+    "oax_eth": {
+      "result": "true",
+      "last": 0.00157,
+      "lowestAsk": 0.001578,
+      "highestBid": 0.001232,
+      "percentChange": -2.4238657551274,
+      "baseVolume": 4.533,
+      "quoteVolume": 2806.24,
+      "high24hr": 0.001857,
+      "low24hr": 0.001448
+    },
+    "rep_eth": {
+      "result": "true",
+      "last": 0.09475,
+      "lowestAsk": 0.094747,
+      "highestBid": 0.061303,
+      "percentChange": 20.888514634209,
+      "baseVolume": 2.57,
+      "quoteVolume": 29.77,
+      "high24hr": 0.09518,
+      "low24hr": 0.078378
+    },
+    "lrc_eth": {
+      "result": "true",
+      "last": 0.000522,
+      "lowestAsk": 0.000522,
+      "highestBid": 0.000505,
+      "percentChange": -13.861386137508,
+      "baseVolume": 262.8208,
+      "quoteVolume": 431784.83,
+      "high24hr": 0.000672,
+      "low24hr": 0.000522
+    },
+    "lrc_btc": {
+      "result": "true",
+      "last": "0.00003360",
+      "lowestAsk": "0.00003370",
+      "highestBid": "0.00003260",
+      "percentChange": 5,
+      "baseVolume": 4.4856,
+      "quoteVolume": 130005.47,
+      "high24hr": "0.00003720",
+      "low24hr": "0.00003200"
+    },
+    "pst_eth": {
+      "result": "true",
+      "last": 0.000719,
+      "lowestAsk": 0.000718,
+      "highestBid": 0.000663,
+      "percentChange": -20.561805183954,
+      "baseVolume": 56.2322,
+      "quoteVolume": 68285.79,
+      "high24hr": 0.000966,
+      "low24hr": 0.000707
+    },
+    "bcdn_eth": {
+      "result": "true",
+      "last": 0.00022,
+      "lowestAsk": 0.000247,
+      "highestBid": 0.00022,
+      "percentChange": -9.4650205761317,
+      "baseVolume": 7.886,
+      "quoteVolume": 31999.862,
+      "high24hr": 0.000269,
+      "low24hr": 0.000222
+    },
+    "bcdn_usdt": {
+      "result": "true",
+      "last": 0.1892,
+      "lowestAsk": 0.1981,
+      "highestBid": 0.1892,
+      "percentChange": 0.31762837433032,
+      "baseVolume": 45012.2893,
+      "quoteVolume": 238791.691,
+      "high24hr": 0.2018,
+      "low24hr": 0.1749
+    },
+    "tnt_eth": {
+      "result": "true",
+      "last": 0.000302,
+      "lowestAsk": 0.000339,
+      "highestBid": 0.000302,
+      "percentChange": 14.068441064639,
+      "baseVolume": 119.1936,
+      "quoteVolume": 396300.95,
+      "high24hr": 0.000389,
+      "low24hr": 0.000248
+    },
+    "snt_eth": {
+      "result": "true",
+      "last": 0.0002857,
+      "lowestAsk": 0.0003072,
+      "highestBid": 0.0002859,
+      "percentChange": -10.039074241058,
+      "baseVolume": 784.974,
+      "quoteVolume": 2250499.46,
+      "high24hr": 0.0003885,
+      "low24hr": 0.0002993
+    },
+    "snt_btc": {
+      "result": "true",
+      "last": "0.00001910",
+      "lowestAsk": "0.00001910",
+      "highestBid": "0.00001850",
+      "percentChange": 6.7039106161285,
+      "baseVolume": 20.1531,
+      "quoteVolume": 1045485.99,
+      "high24hr": "0.00002140",
+      "low24hr": "0.00001780"
+    },
+    "btm_eth": {
+      "result": "true",
+      "last": 0.000436,
+      "lowestAsk": 0.000443,
+      "highestBid": 0.000435,
+      "percentChange": -6.1702127657681,
+      "baseVolume": 1223.0423,
+      "quoteVolume": 2595381.22,
+      "high24hr": 0.000493,
+      "low24hr": 0.000439
+    },
+    "llt_eth": {
+      "result": "true",
+      "last": 0.000283,
+      "lowestAsk": 0.000286,
+      "highestBid": 0.000283,
+      "percentChange": -11.801242114422,
+      "baseVolume": 71.5374,
+      "quoteVolume": 229291.85,
+      "high24hr": 0.000331,
+      "low24hr": 0.000284
+    },
+    "omg_eth": {
+      "result": "true",
+      "last": 0.0213,
+      "lowestAsk": 0.024,
+      "highestBid": 0.02132,
+      "percentChange": -18.640183346066,
+      "baseVolume": 75.017,
+      "quoteVolume": 2931.679,
+      "high24hr": 0.02796,
+      "low24hr": 0.0213
+    },
+    "omg_btc": {
+      "result": "true",
+      "last": 0.001388,
+      "lowestAsk": 0.001437,
+      "highestBid": 0.00139,
+      "percentChange": -2.3223082336383,
+      "baseVolume": 0.8167,
+      "quoteVolume": 560.963,
+      "high24hr": 0.001545,
+      "low24hr": 0.001364
+    },
+    "pay_eth": {
+      "result": "true",
+      "last": 0.004797,
+      "lowestAsk": 0.004794,
+      "highestBid": 0.004601,
+      "percentChange": -10.4201685195,
+      "baseVolume": 61.997,
+      "quoteVolume": 12156.01,
+      "high24hr": 0.005385,
+      "low24hr": 0.004601
+    },
+    "pay_btc": {
+      "result": "true",
+      "last": 0.0003,
+      "lowestAsk": 0.000309,
+      "highestBid": 0.000295,
+      "percentChange": 2.7390382505548,
+      "baseVolume": 0.3639,
+      "quoteVolume": 1243.708,
+      "high24hr": 0.000304,
+      "low24hr": 0.000287
+    },
+    "bat_eth": {
+      "result": "true",
+      "last": 0.000513,
+      "lowestAsk": 0.000633,
+      "highestBid": 0.000516,
+      "percentChange": -6.099817578963,
+      "baseVolume": 8.372,
+      "quoteVolume": 14632.904,
+      "high24hr": 0.000666,
+      "low24hr": 0.000508
+    },
+    "bat_btc": {
+      "result": "true",
+      "last": "0.00003470",
+      "lowestAsk": "0.00003470",
+      "highestBid": "0.00003300",
+      "percentChange": 18.060164819642,
+      "baseVolume": 3.7827,
+      "quoteVolume": 117175.19,
+      "high24hr": "0.00003560",
+      "low24hr": "0.00002800"
+    },
+    "cvc_eth": {
+      "result": "true",
+      "last": 0.001005,
+      "lowestAsk": 0.00113,
+      "highestBid": 0.001006,
+      "percentChange": -8.8850407978241,
+      "baseVolume": 28.024,
+      "quoteVolume": 24274.576,
+      "high24hr": 0.001221,
+      "low24hr": 0.00101
+    },
+    "storj_eth": {
+      "result": "true",
+      "last": 0.002635,
+      "lowestAsk": 0.002643,
+      "highestBid": 0.00186,
+      "percentChange": -16.824494937099,
+      "baseVolume": 47.132,
+      "quoteVolume": 15341.535,
+      "high24hr": 0.00333,
+      "low24hr": 0.002635
+    },
+    "storj_btc": {
+      "result": "true",
+      "last": 0.0001653,
+      "lowestAsk": 0.0001717,
+      "highestBid": 0.000165,
+      "percentChange": -4.2302826568019,
+      "baseVolume": 2.9503,
+      "quoteVolume": 17358.28,
+      "high24hr": 0.0001814,
+      "low24hr": 0.0001621
+    },
+    "eos_eth": {
+      "result": "true",
+      "last": 0.0097,
+      "lowestAsk": 0.009789,
+      "highestBid": 0.0097,
+      "percentChange": -4.3902453858303,
+      "baseVolume": 465.595,
+      "quoteVolume": 45636.845,
+      "high24hr": 0.010539,
+      "low24hr": 0.0097
+    },
+    "eos_btc": {
+      "result": "true",
+      "last": 0.0006305,
+      "lowestAsk": 0.00063,
+      "highestBid": 0.000621,
+      "percentChange": 11.553661339075,
+      "baseVolume": 10.4422,
+      "quoteVolume": 18033.26,
+      "high24hr": 0.0006305,
+      "low24hr": 0.0005636
+    },
+    "bts_usdt": {
+      "result": "true",
+      "last": 0.832,
+      "lowestAsk": 0.84,
+      "highestBid": 0.8304,
+      "percentChange": 22.218934908497,
+      "baseVolume": 1315405.7617,
+      "quoteVolume": 1767666.1988,
+      "high24hr": 0.9128,
+      "low24hr": 0.6589
+    },
+    "bts_btc": {
+      "result": "true",
+      "last": "0.00006056",
+      "lowestAsk": "0.00006716",
+      "highestBid": "0.00006056",
+      "percentChange": 17.764471057884,
+      "baseVolume": 29.59129,
+      "quoteVolume": 545821.84,
+      "high24hr": "0.00006729",
+      "low24hr": "0.00004763"
+    }
+  },
+  "okex": {
+    "ace_btc": {
+      "high24hr": "0.00003395",
+      "percentChange": "+4.05%",
+      "last": "0.00003395",
+      "low24hr": "0.00003081",
+      "highestBid": "0.00003210",
+      "lowestAsk": "0.00003395"
+    },
+    "ace_eth": {
+      "high24hr": "0.00061319",
+      "percentChange": "-20.05%",
+      "last": "0.00052000",
+      "low24hr": "0.00052000",
+      "highestBid": "0.00051831",
+      "lowestAsk": "0.00060009"
+    },
+    "ace_usdt": {
+      "high24hr": "0.4599",
+      "percentChange": "+3.37%",
+      "last": "0.4599",
+      "low24hr": "0.3812",
+      "highestBid": "0.4343",
+      "lowestAsk": "0.4691"
+    },
+    "act_bch": {
+      "high24hr": "0.00022200",
+      "percentChange": "+38.15%",
+      "last": "0.00021644",
+      "low24hr": "0.00015531",
+      "highestBid": "0.00015785",
+      "lowestAsk": "0.00020965"
+    },
+    "act_btc": {
+      "high24hr": "0.00002925",
+      "percentChange": "+5.61%",
+      "last": "0.00002860",
+      "low24hr": "0.00002697",
+      "highestBid": "0.00002856",
+      "lowestAsk": "0.00002860"
+    },
+    "act_eth": {
+      "high24hr": "0.00051300",
+      "percentChange": "-9.27%",
+      "last": "0.00044685",
+      "low24hr": "0.00044685",
+      "highestBid": "0.00044574",
+      "lowestAsk": "0.00044784"
+    },
+    "act_usdt": {
+      "high24hr": "0.3968",
+      "percentChange": "+8.00%",
+      "last": "0.3888",
+      "low24hr": "0.3578",
+      "highestBid": "0.3888",
+      "lowestAsk": "0.3899"
+    },
+    "amm_btc": {
+      "high24hr": "0.00006900",
+      "percentChange": "+35.86%",
+      "last": "0.00005933",
+      "low24hr": "0.00004346",
+      "highestBid": "0.00005924",
+      "lowestAsk": "0.00005956"
+    },
+    "amm_eth": {
+      "high24hr": "0.00110000",
+      "percentChange": "+31.08%",
+      "last": "0.00100896",
+      "low24hr": "0.00076179",
+      "highestBid": "0.00100676",
+      "lowestAsk": "0.00100896"
+    },
+    "amm_usdt": {
+      "high24hr": "0.8400",
+      "percentChange": "+39.83%",
+      "last": "0.8054",
+      "low24hr": "0.5743",
+      "highestBid": "0.8054",
+      "lowestAsk": "0.8099"
+    },
+    "ark_btc": {
+      "high24hr": "0.00068000",
+      "percentChange": "+9.06%",
+      "last": "0.00058683",
+      "low24hr": "0.00048046",
+      "highestBid": "0.00058014",
+      "lowestAsk": "0.00058343"
+    },
+    "ark_eth": {
+      "high24hr": "0.01200000",
+      "percentChange": "-7.93%",
+      "last": "0.00895766",
+      "low24hr": "0.00562300",
+      "highestBid": "0.00886601",
+      "lowestAsk": "0.00888382"
+    },
+    "ark_usdt": {
+      "high24hr": "8.5010",
+      "percentChange": "+11.70%",
+      "last": "7.8939",
+      "low24hr": "6.5509",
+      "highestBid": "7.9281",
+      "lowestAsk": "7.9618"
+    },
+    "ast_btc": {
+      "high24hr": "0.00004599",
+      "percentChange": "+12.15%",
+      "last": "0.00004328",
+      "low24hr": "0.00003410",
+      "highestBid": "0.00004328",
+      "lowestAsk": "0.00004340"
+    },
+    "ast_eth": {
+      "high24hr": "0.00101000",
+      "percentChange": "+1.31%",
+      "last": "0.00073739",
+      "low24hr": "0.00064328",
+      "highestBid": "0.00073437",
+      "lowestAsk": "0.00073739"
+    },
+    "ast_usdt": {
+      "high24hr": "0.7500",
+      "percentChange": "+12.82%",
+      "last": "0.5862",
+      "low24hr": "0.4660",
+      "highestBid": "0.5834",
+      "lowestAsk": "0.5862"
+    },
+    "avt_bch": {
+      "high24hr": "0.00200000",
+      "percentChange": "-36.28%",
+      "last": "0.00112552",
+      "low24hr": "0.00100100",
+      "highestBid": "0.00112600",
+      "lowestAsk": "0.00200000"
+    },
+    "avt_btc": {
+      "high24hr": "0.00034000",
+      "percentChange": "+25.75%",
+      "last": "0.00033958",
+      "low24hr": "0.00027005",
+      "highestBid": "0.00033958",
+      "lowestAsk": "0.00034000"
+    },
+    "avt_eth": {
+      "high24hr": "0.00596173",
+      "percentChange": "+3.96%",
+      "last": "0.00520000",
+      "low24hr": "0.00500195",
+      "highestBid": "0.00500568",
+      "lowestAsk": "0.00589050"
+    },
+    "avt_usdt": {
+      "high24hr": "4.7768",
+      "percentChange": "-0.26%",
+      "last": "3.9395",
+      "low24hr": "3.5434",
+      "highestBid": "3.9420",
+      "lowestAsk": "4.6948"
+    },
+    "bcd_bch": {
+      "high24hr": "0.01124683",
+      "percentChange": "-0.42%",
+      "last": "0.01061175",
+      "low24hr": "0.00951912",
+      "highestBid": "0.00960849",
+      "lowestAsk": "0.01061156"
+    },
+    "bcd_btc": {
+      "high24hr": "0.00183852",
+      "percentChange": "-1.68%",
+      "last": "0.00176669",
+      "low24hr": "0.00166627",
+      "highestBid": "0.00175680",
+      "lowestAsk": "0.00176668"
+    },
+    "bcd_usdt": {
+      "high24hr": "25.3800",
+      "percentChange": "-0.93%",
+      "last": "23.8500",
+      "low24hr": "22.2011",
+      "highestBid": "23.8500",
+      "lowestAsk": "23.9494"
+    },
+    "bch_btc": {
+      "high24hr": "0.17915566",
+      "percentChange": "+3.47%",
+      "last": "0.17913451",
+      "low24hr": "0.17153203",
+      "highestBid": "0.17903002",
+      "lowestAsk": "0.17904810"
+    },
+    "bch_usdt": {
+      "high24hr": "2415.0000",
+      "percentChange": "+4.57%",
+      "last": "2410.3698",
+      "low24hr": "2238.8220",
+      "highestBid": "2410.3698",
+      "lowestAsk": "2410.3699"
+    },
+    "bcx_bch": {
+      "high24hr": "0.00001490",
+      "percentChange": "+7.01%",
+      "last": "0.00001480",
+      "low24hr": "0.00001333",
+      "highestBid": "0.00001434",
+      "lowestAsk": "0.00001463"
+    },
+    "bcx_btc": {
+      "high24hr": "0.00000258",
+      "percentChange": "+6.81%",
+      "last": "0.00000251",
+      "low24hr": "0.00000234",
+      "highestBid": "0.00000251",
+      "lowestAsk": "0.00000252"
+    },
+    "bnt_btc": {
+      "high24hr": "0.00046134",
+      "percentChange": "+18.25%",
+      "last": "0.00044892",
+      "low24hr": "0.00037964",
+      "highestBid": "0.00044666",
+      "lowestAsk": "0.00044892"
+    },
+    "bnt_eth": {
+      "high24hr": "0.02000000",
+      "percentChange": "-3.07%",
+      "last": "0.00678000",
+      "low24hr": "0.00620000",
+      "highestBid": "0.00674228",
+      "lowestAsk": "0.00676098"
+    },
+    "bnt_usdt": {
+      "high24hr": "6.0673",
+      "percentChange": "+18.16%",
+      "last": "6.0130",
+      "low24hr": "5.0000",
+      "highestBid": "6.0082",
+      "lowestAsk": "6.0373"
+    },
+    "btc_usdt": {
+      "high24hr": "13849.5474",
+      "percentChange": "+0.89%",
+      "last": "13448.8401",
+      "low24hr": "12752.9802",
+      "highestBid": "13448.8400",
+      "lowestAsk": "13448.8401"
+    },
+    "btg_bch": {
+      "high24hr": "0.07999900",
+      "percentChange": "+0.06%",
+      "last": "0.07560215",
+      "low24hr": "0.07201113",
+      "highestBid": "0.07598095",
+      "lowestAsk": "0.07999888"
+    },
+    "btg_btc": {
+      "high24hr": "0.01391005",
+      "percentChange": "+3.08%",
+      "last": "0.01374445",
+      "low24hr": "0.01250000",
+      "highestBid": "0.01368970",
+      "lowestAsk": "0.01379943"
+    },
+    "btg_usdt": {
+      "high24hr": "220.0000",
+      "percentChange": "+4.90%",
+      "last": "186.0478",
+      "low24hr": "168.0000",
+      "highestBid": "186.0478",
+      "lowestAsk": "186.0479"
+    },
+    "btm_btc": {
+      "high24hr": "0.00003169",
+      "percentChange": "+10.50%",
+      "last": "0.00002820",
+      "low24hr": "0.00002543",
+      "highestBid": "0.00002852",
+      "lowestAsk": "0.00002856"
+    },
+    "btm_eth": {
+      "high24hr": "0.00055532",
+      "percentChange": "-13.15%",
+      "last": "0.00041802",
+      "low24hr": "0.00041802",
+      "highestBid": "0.00041803",
+      "lowestAsk": "0.00045952"
+    },
+    "btm_usdt": {
+      "high24hr": "0.4165",
+      "percentChange": "+12.74%",
+      "last": "0.3877",
+      "low24hr": "0.3412",
+      "highestBid": "0.3826",
+      "lowestAsk": "0.3849"
+    },
+    "bt2_btc": {
+      "high24hr": "0.01220000",
+      "percentChange": "+4.17%",
+      "last": "0.01153622",
+      "low24hr": "0.00900000",
+      "highestBid": "0.01157617",
+      "lowestAsk": "0.01161570"
+    },
+    "cmt_bch": {
+      "high24hr": "0.00012180",
+      "percentChange": "-10.79%",
+      "last": "0.00009813",
+      "low24hr": "0.00009489",
+      "highestBid": "0.00009851",
+      "lowestAsk": "0.00012162"
+    },
+    "cmt_btc": {
+      "high24hr": "0.00002098",
+      "percentChange": "+3.25%",
+      "last": "0.00001939",
+      "low24hr": "0.00001616",
+      "highestBid": "0.00001938",
+      "lowestAsk": "0.00001945"
+    },
+    "cmt_eth": {
+      "high24hr": "0.00034980",
+      "percentChange": "-17.64%",
+      "last": "0.00028594",
+      "low24hr": "0.00028001",
+      "highestBid": "0.00028595",
+      "lowestAsk": "0.00028905"
+    },
+    "cmt_usdt": {
+      "high24hr": "0.2760",
+      "percentChange": "+5.52%",
+      "last": "0.2638",
+      "low24hr": "0.2270",
+      "highestBid": "0.2631",
+      "lowestAsk": "0.2635"
+    },
+    "ctr_btc": {
+      "high24hr": "0.00016338",
+      "percentChange": "+6.24%",
+      "last": "0.00016338",
+      "low24hr": "0.00014662",
+      "highestBid": "0.00016343",
+      "lowestAsk": "0.00016417"
+    },
+    "ctr_eth": {
+      "high24hr": "0.00276130",
+      "percentChange": "-10.78%",
+      "last": "0.00253618",
+      "low24hr": "0.00253618",
+      "highestBid": "0.00253244",
+      "lowestAsk": "0.00253970"
+    },
+    "ctr_usdt": {
+      "high24hr": "2.2458",
+      "percentChange": "+7.56%",
+      "last": "2.2158",
+      "low24hr": "1.8000",
+      "highestBid": "2.2059",
+      "lowestAsk": "2.2108"
+    },
+    "cvc_btc": {
+      "high24hr": "0.00006899",
+      "percentChange": "+7.48%",
+      "last": "0.00006570",
+      "low24hr": "0.00006015",
+      "highestBid": "0.00006550",
+      "lowestAsk": "0.00006591"
+    },
+    "cvc_eth": {
+      "high24hr": "0.00166666",
+      "percentChange": "-4.15%",
+      "last": "0.00108251",
+      "low24hr": "0.00091100",
+      "highestBid": "0.00107923",
+      "lowestAsk": "0.00108248"
+    },
+    "cvc_usdt": {
+      "high24hr": "0.9000",
+      "percentChange": "+11.22%",
+      "last": "0.9000",
+      "low24hr": "0.7200",
+      "highestBid": "0.8930",
+      "lowestAsk": "0.8968"
+    },
+    "dash_bch": {
+      "high24hr": "0.45742490",
+      "percentChange": "+7.67%",
+      "last": "0.45742490",
+      "low24hr": "0.38685207",
+      "highestBid": "0.43571969",
+      "lowestAsk": "0.45651046"
+    },
+    "dash_btc": {
+      "high24hr": "0.07972691",
+      "percentChange": "+8.93%",
+      "last": "0.07972690",
+      "low24hr": "0.07290000",
+      "highestBid": "0.07904945",
+      "lowestAsk": "0.07980883"
+    },
+    "dash_eth": {
+      "high24hr": "1.36214749",
+      "percentChange": "-9.53%",
+      "last": "1.23010281",
+      "low24hr": "1.21583439",
+      "highestBid": "1.22395603",
+      "lowestAsk": "1.23010281"
+    },
+    "dash_usdt": {
+      "high24hr": "1084.9999",
+      "percentChange": "+9.96%",
+      "last": "1075.0000",
+      "low24hr": "957.6496",
+      "highestBid": "1075.0000",
+      "lowestAsk": "1076.3270"
+    },
+    "dat_btc": {
+      "high24hr": "0.00000373",
+      "percentChange": "+14.06%",
+      "last": "0.00000365",
+      "low24hr": "0.00000320",
+      "highestBid": "0.00000362",
+      "lowestAsk": "0.00000365"
+    },
+    "dat_eth": {
+      "high24hr": "0.00006660",
+      "percentChange": "-5.74%",
+      "last": "0.00005750",
+      "low24hr": "0.00005671",
+      "highestBid": "0.00005675",
+      "lowestAsk": "0.00005712"
+    },
+    "dat_usdt": {
+      "high24hr": "0.0518",
+      "percentChange": "+12.44%",
+      "last": "0.0497",
+      "low24hr": "0.0437",
+      "highestBid": "0.0495",
+      "lowestAsk": "0.0497"
+    },
+    "dgb_btc": {
+      "high24hr": "0.00000539",
+      "percentChange": "-5.42%",
+      "last": "0.00000524",
+      "low24hr": "0.00000490",
+      "highestBid": "0.00000497",
+      "lowestAsk": "0.00000524"
+    },
+    "dgb_eth": {
+      "high24hr": "0.00010976",
+      "percentChange": "-28.00%",
+      "last": "0.00008071",
+      "low24hr": "0.00008071",
+      "highestBid": "0.00008001",
+      "lowestAsk": "0.00010758"
+    },
+    "dgb_usdt": {
+      "high24hr": "0.0713",
+      "percentChange": "-4.05%",
+      "last": "0.0710",
+      "low24hr": "0.0637",
+      "highestBid": "0.0692",
+      "lowestAsk": "0.0709"
+    },
+    "dgd_bch": {
+      "high24hr": "0.05308055",
+      "percentChange": "+0.11%",
+      "last": "0.05308055",
+      "low24hr": "0.05302020",
+      "highestBid": "0.05307806",
+      "lowestAsk": "0.07949975"
+    },
+    "dgd_btc": {
+      "high24hr": "0.01256728",
+      "percentChange": "+10.95%",
+      "last": "0.01232890",
+      "low24hr": "0.01111253",
+      "highestBid": "0.01226922",
+      "lowestAsk": "0.01232891"
+    },
+    "dgd_eth": {
+      "high24hr": "0.20978135",
+      "percentChange": "-8.77%",
+      "last": "0.19042670",
+      "low24hr": "0.12032388",
+      "highestBid": "0.19042670",
+      "lowestAsk": "0.19094407"
+    },
+    "dgd_usdt": {
+      "high24hr": "165.0000",
+      "percentChange": "+10.45%",
+      "last": "165.0000",
+      "low24hr": "141.0051",
+      "highestBid": "166.9564",
+      "lowestAsk": "167.4314"
+    },
+    "dnt_btc": {
+      "high24hr": "0.00001369",
+      "percentChange": "+13.50%",
+      "last": "0.00001202",
+      "low24hr": "0.00001036",
+      "highestBid": "0.00001197",
+      "lowestAsk": "0.00001202"
+    },
+    "dnt_eth": {
+      "high24hr": "0.00021280",
+      "percentChange": "-1.37%",
+      "last": "0.00018630",
+      "low24hr": "0.00010014",
+      "highestBid": "0.00017268",
+      "lowestAsk": "0.00017484"
+    },
+    "dnt_usdt": {
+      "high24hr": "0.1800",
+      "percentChange": "+12.76%",
+      "last": "0.1617",
+      "low24hr": "0.1384",
+      "highestBid": "0.1623",
+      "lowestAsk": "0.1629"
+    },
+    "edo_bch": {
+      "high24hr": "0.00173631",
+      "percentChange": "-8.07%",
+      "last": "0.00147081",
+      "low24hr": "0.00140000",
+      "highestBid": "0.00147142",
+      "lowestAsk": "0.00173631"
+    },
+    "edo_btc": {
+      "high24hr": "0.00034185",
+      "percentChange": "+21.32%",
+      "last": "0.00034185",
+      "low24hr": "0.00027638",
+      "highestBid": "0.00029501",
+      "lowestAsk": "0.00034180"
+    },
+    "edo_eth": {
+      "high24hr": "0.00579052",
+      "percentChange": "-0.06%",
+      "last": "0.00489853",
+      "low24hr": "0.00489853",
+      "highestBid": "0.00459337",
+      "lowestAsk": "0.00490000"
+    },
+    "edo_usdt": {
+      "high24hr": "4.3000",
+      "percentChange": "+18.94%",
+      "last": "4.3000",
+      "low24hr": "2.5100",
+      "highestBid": "3.8566",
+      "lowestAsk": "4.2900"
+    },
+    "elf_btc": {
+      "high24hr": "0.00008000",
+      "percentChange": "+6.75%",
+      "last": "0.00007701",
+      "low24hr": "0.00006988",
+      "highestBid": "0.00007701",
+      "lowestAsk": "0.00007795"
+    },
+    "elf_eth": {
+      "high24hr": "0.00143517",
+      "percentChange": "-13.02%",
+      "last": "0.00116064",
+      "low24hr": "0.00115833",
+      "highestBid": "0.00116182",
+      "lowestAsk": "0.00123801"
+    },
+    "elf_usdt": {
+      "high24hr": "1.0999",
+      "percentChange": "+10.25%",
+      "last": "1.0400",
+      "low24hr": "0.9150",
+      "highestBid": "1.0401",
+      "lowestAsk": "1.0743"
+    },
+    "eng_btc": {
+      "high24hr": "0.00099905",
+      "percentChange": "+37.61%",
+      "last": "0.00027011",
+      "low24hr": "0.00017449",
+      "highestBid": "0.00027011",
+      "lowestAsk": "0.00037776"
+    },
+    "eng_eth": {
+      "high24hr": "0.00490000",
+      "percentChange": "+80.76%",
+      "last": "0.00489853",
+      "low24hr": "0.00257000",
+      "highestBid": "0.00300299",
+      "lowestAsk": "0.00489853"
+    },
+    "eng_usdt": {
+      "high24hr": "23.0000",
+      "percentChange": "+76.71%",
+      "last": "4.3100",
+      "low24hr": "2.1352",
+      "highestBid": "4.3100",
+      "lowestAsk": "5.6000"
+    },
+    "eos_bch": {
+      "high24hr": "0.00358001",
+      "percentChange": "+3.15%",
+      "last": "0.00332431",
+      "low24hr": "0.00318053",
+      "highestBid": "0.00335109",
+      "lowestAsk": "0.00366670"
+    },
+    "eos_btc": {
+      "high24hr": "0.00063047",
+      "percentChange": "+11.72%",
+      "last": "0.00062096",
+      "low24hr": "0.00055479",
+      "highestBid": "0.00061997",
+      "lowestAsk": "0.00062096"
+    },
+    "eos_eth": {
+      "high24hr": "0.01072341",
+      "percentChange": "-6.12%",
+      "last": "0.00959930",
+      "low24hr": "0.00953412",
+      "highestBid": "0.00959447",
+      "lowestAsk": "0.00970541"
+    },
+    "eos_usdt": {
+      "high24hr": "8.5800",
+      "percentChange": "+12.59%",
+      "last": "8.3188",
+      "low24hr": "7.2501",
+      "highestBid": "8.3162",
+      "lowestAsk": "8.3187"
+    },
+    "etc_bch": {
+      "high24hr": "0.01320000",
+      "percentChange": "+17.92%",
+      "last": "0.01297141",
+      "low24hr": "0.01062600",
+      "highestBid": "0.01283984",
+      "lowestAsk": "0.01319978"
+    },
+    "etc_btc": {
+      "high24hr": "0.00232330",
+      "percentChange": "+21.79%",
+      "last": "0.00230321",
+      "low24hr": "0.00189115",
+      "highestBid": "0.00230270",
+      "lowestAsk": "0.00230322"
+    },
+    "etc_eth": {
+      "high24hr": "0.04119997",
+      "percentChange": "+1.43%",
+      "last": "0.03543610",
+      "low24hr": "0.03448157",
+      "highestBid": "0.03543610",
+      "lowestAsk": "0.03547514"
+    },
+    "etc_usdt": {
+      "high24hr": "31.3600",
+      "percentChange": "+22.94%",
+      "last": "30.9802",
+      "low24hr": "25.1918",
+      "highestBid": "30.9803",
+      "lowestAsk": "30.9804"
+    },
+    "eth_btc": {
+      "high24hr": "0.06688000",
+      "percentChange": "+19.12%",
+      "last": "0.06471548",
+      "low24hr": "0.05416744",
+      "highestBid": "0.06471547",
+      "lowestAsk": "0.06471548"
+    },
+    "eth_usdt": {
+      "high24hr": "888.8699",
+      "percentChange": "+20.56%",
+      "last": "869.9798",
+      "low24hr": "719.9423",
+      "highestBid": "869.9798",
+      "lowestAsk": "869.9799"
+    },
+    "evx_btc": {
+      "high24hr": "0.00015799",
+      "percentChange": "+9.68%",
+      "last": "0.00014771",
+      "low24hr": "0.00013345",
+      "highestBid": "0.00014771",
+      "lowestAsk": "0.00015583"
+    },
+    "evx_eth": {
+      "high24hr": "0.00288638",
+      "percentChange": "+1.30%",
+      "last": "0.00223884",
+      "low24hr": "0.00221017",
+      "highestBid": "0.00221092",
+      "lowestAsk": "0.00288197"
+    },
+    "evx_usdt": {
+      "high24hr": "2.1999",
+      "percentChange": "+5.12%",
+      "last": "1.9530",
+      "low24hr": "1.7000",
+      "highestBid": "1.9930",
+      "lowestAsk": "2.1666"
+    },
+    "fun_btc": {
+      "high24hr": "0.00000735",
+      "percentChange": "+4.23%",
+      "last": "0.00000665",
+      "low24hr": "0.00000603",
+      "highestBid": "0.00000661",
+      "lowestAsk": "0.00000663"
+    },
+    "fun_eth": {
+      "high24hr": "0.00012500",
+      "percentChange": "+0.36%",
+      "last": "0.00011703",
+      "low24hr": "0.00006501",
+      "highestBid": "0.00011655",
+      "lowestAsk": "0.00011809"
+    },
+    "fun_usdt": {
+      "high24hr": "0.1000",
+      "percentChange": "+6.13%",
+      "last": "0.0917",
+      "low24hr": "0.0811",
+      "highestBid": "0.0916",
+      "lowestAsk": "0.0919"
+    },
+    "gas_btc": {
+      "high24hr": "0.00234357",
+      "percentChange": "+4.34%",
+      "last": "0.00230692",
+      "low24hr": "0.00220514",
+      "highestBid": "0.00229306",
+      "lowestAsk": "0.00231520"
+    },
+    "gas_eth": {
+      "high24hr": "0.04181979",
+      "percentChange": "-11.03%",
+      "last": "0.03544856",
+      "low24hr": "0.01989640",
+      "highestBid": "0.03575966",
+      "lowestAsk": "0.03583577"
+    },
+    "gas_usdt": {
+      "high24hr": "33.0000",
+      "percentChange": "+3.80%",
+      "last": "31.0593",
+      "low24hr": "29.3991",
+      "highestBid": "31.0593",
+      "lowestAsk": "31.2080"
+    },
+    "gnt_btc": {
+      "high24hr": "0.00007263",
+      "percentChange": "+15.82%",
+      "last": "0.00006920",
+      "low24hr": "0.00005738",
+      "highestBid": "0.00006920",
+      "lowestAsk": "0.00006941"
+    },
+    "gnt_eth": {
+      "high24hr": "0.00121175",
+      "percentChange": "+2.28%",
+      "last": "0.00112390",
+      "low24hr": "0.00103670",
+      "highestBid": "0.00111852",
+      "lowestAsk": "0.00112390"
+    },
+    "gnt_usdt": {
+      "high24hr": "0.9780",
+      "percentChange": "+15.68%",
+      "last": "0.9298",
+      "low24hr": "0.7885",
+      "highestBid": "0.9290",
+      "lowestAsk": "0.9338"
+    },
+    "gnx_btc": {
+      "high24hr": "0.00004199",
+      "percentChange": "+47.27%",
+      "last": "0.00003751",
+      "low24hr": "0.00002500",
+      "highestBid": "0.00003751",
+      "lowestAsk": "0.00003768"
+    },
+    "gnx_eth": {
+      "high24hr": "0.00071700",
+      "percentChange": "+15.77%",
+      "last": "0.00057990",
+      "low24hr": "0.00045000",
+      "highestBid": "0.00057787",
+      "lowestAsk": "0.00057990"
+    },
+    "gnx_usdt": {
+      "high24hr": "0.5490",
+      "percentChange": "+39.05%",
+      "last": "0.5081",
+      "low24hr": "0.3209",
+      "highestBid": "0.5022",
+      "lowestAsk": "0.5081"
+    },
+    "hsr_btc": {
+      "high24hr": "0.00200000",
+      "percentChange": "-9.34%",
+      "last": "0.00190825",
+      "low24hr": "0.00186800",
+      "highestBid": "0.00190827",
+      "lowestAsk": "0.00191991"
+    },
+    "hsr_eth": {
+      "high24hr": "0.03575100",
+      "percentChange": "-24.49%",
+      "last": "0.02939768",
+      "low24hr": "0.02881268",
+      "highestBid": "0.02923377",
+      "lowestAsk": "0.02939772"
+    },
+    "hsr_usdt": {
+      "high24hr": "27.4195",
+      "percentChange": "-9.18%",
+      "last": "25.7297",
+      "low24hr": "23.8802",
+      "highestBid": "25.7295",
+      "lowestAsk": "25.9104"
+    },
+    "icn_btc": {
+      "high24hr": "0.00020566",
+      "percentChange": "+10.89%",
+      "last": "0.00017521",
+      "low24hr": "0.00015800",
+      "highestBid": "0.00017521",
+      "lowestAsk": "0.00020531"
+    },
+    "icn_eth": {
+      "high24hr": "0.00395772",
+      "percentChange": "-29.42%",
+      "last": "0.00282300",
+      "low24hr": "0.00281446",
+      "highestBid": "0.00282300",
+      "lowestAsk": "0.00347987"
+    },
+    "icn_usdt": {
+      "high24hr": "2.6980",
+      "percentChange": "-1.23%",
+      "last": "2.4098",
+      "low24hr": "2.2300",
+      "highestBid": "2.4107",
+      "lowestAsk": "2.6268"
+    },
+    "icx_btc": {
+      "high24hr": "0.00051452",
+      "percentChange": "+27.65%",
+      "last": "0.00049183",
+      "low24hr": "0.00037644",
+      "highestBid": "0.00048944",
+      "lowestAsk": "0.00049422"
+    },
+    "icx_eth": {
+      "high24hr": "0.00840000",
+      "percentChange": "+7.72%",
+      "last": "0.00759669",
+      "low24hr": "0.00679426",
+      "highestBid": "0.00758187",
+      "lowestAsk": "0.00761152"
+    },
+    "icx_usdt": {
+      "high24hr": "6.9860",
+      "percentChange": "+30.84%",
+      "last": "6.7315",
+      "low24hr": "4.8800",
+      "highestBid": "6.5049",
+      "lowestAsk": "6.7315"
+    },
+    "iota_btc": {
+      "high24hr": "0.00030942",
+      "percentChange": "+12.74%",
+      "last": "0.00029356",
+      "low24hr": "0.00025874",
+      "highestBid": "0.00029364",
+      "lowestAsk": "0.00029365"
+    },
+    "iota_eth": {
+      "high24hr": "0.00546903",
+      "percentChange": "-5.49%",
+      "last": "0.00453161",
+      "low24hr": "0.00444437",
+      "highestBid": "0.00453161",
+      "lowestAsk": "0.00454000"
+    },
+    "iota_usdt": {
+      "high24hr": "4.1800",
+      "percentChange": "+15.08%",
+      "last": "3.9797",
+      "low24hr": "3.4000",
+      "highestBid": "3.9599",
+      "lowestAsk": "3.9797"
+    },
+    "itc_btc": {
+      "high24hr": "0.00028490",
+      "percentChange": "+0.87%",
+      "last": "0.00026012",
+      "low24hr": "0.00021000",
+      "highestBid": "0.00026146",
+      "lowestAsk": "0.00026279"
+    },
+    "itc_eth": {
+      "high24hr": "0.00520000",
+      "percentChange": "-36.35%",
+      "last": "0.00300540",
+      "low24hr": "0.00070101",
+      "highestBid": "0.00300250",
+      "lowestAsk": "0.00301040"
+    },
+    "itc_usdt": {
+      "high24hr": "3.8800",
+      "percentChange": "+2.48%",
+      "last": "3.5042",
+      "low24hr": "2.7100",
+      "highestBid": "3.5932",
+      "lowestAsk": "3.5992"
+    },
+    "knc_btc": {
+      "high24hr": "0.00026999",
+      "percentChange": "+33.33%",
+      "last": "0.00025648",
+      "low24hr": "0.00018972",
+      "highestBid": "0.00025479",
+      "lowestAsk": "0.00025648"
+    },
+    "knc_eth": {
+      "high24hr": "0.00420968",
+      "percentChange": "+11.06%",
+      "last": "0.00393043",
+      "low24hr": "0.00347125",
+      "highestBid": "0.00392411",
+      "lowestAsk": "0.00393676"
+    },
+    "knc_usdt": {
+      "high24hr": "3.5000",
+      "percentChange": "+36.67%",
+      "last": "3.4621",
+      "low24hr": "2.5331",
+      "highestBid": "3.4461",
+      "lowestAsk": "3.4667"
+    },
+    "link_btc": {
+      "high24hr": "0.00006736",
+      "percentChange": "+24.33%",
+      "last": "0.00005300",
+      "low24hr": "0.00004251",
+      "highestBid": "0.00005300",
+      "lowestAsk": "0.00005321"
+    },
+    "link_eth": {
+      "high24hr": "0.00100000",
+      "percentChange": "+2.15%",
+      "last": "0.00084780",
+      "low24hr": "0.00060000",
+      "highestBid": "0.00084780",
+      "lowestAsk": "0.00085200"
+    },
+    "link_usdt": {
+      "high24hr": "0.7500",
+      "percentChange": "+27.71%",
+      "last": "0.7309",
+      "low24hr": "0.4501",
+      "highestBid": "0.7243",
+      "lowestAsk": "0.7259"
+    },
+    "lrc_btc": {
+      "high24hr": "0.00003562",
+      "percentChange": "+2.47%",
+      "last": "0.00003359",
+      "low24hr": "0.00003205",
+      "highestBid": "0.00003346",
+      "lowestAsk": "0.00003359"
+    },
+    "lrc_eth": {
+      "high24hr": "0.00064980",
+      "percentChange": "-16.22%",
+      "last": "0.00051250",
+      "low24hr": "0.00051250",
+      "highestBid": "0.00051628",
+      "lowestAsk": "0.00051998"
+    },
+    "lrc_usdt": {
+      "high24hr": "0.4799",
+      "percentChange": "+2.77%",
+      "last": "0.4523",
+      "low24hr": "0.4031",
+      "highestBid": "0.4498",
+      "lowestAsk": "0.4500"
+    },
+    "ltc_bch": {
+      "high24hr": "0.10298000",
+      "percentChange": "+10.10%",
+      "last": "0.10298000",
+      "low24hr": "0.09257000",
+      "highestBid": "0.10295000",
+      "lowestAsk": "0.10301000"
+    },
+    "ltc_btc": {
+      "high24hr": "0.01847711",
+      "percentChange": "+14.06%",
+      "last": "0.01847710",
+      "low24hr": "0.01619400",
+      "highestBid": "0.01847710",
+      "lowestAsk": "0.01847711"
+    },
+    "ltc_eth": {
+      "high24hr": "0.30158622",
+      "percentChange": "-5.81%",
+      "last": "0.28165376",
+      "low24hr": "0.21247360",
+      "highestBid": "0.28080625",
+      "lowestAsk": "0.28165376"
+    },
+    "ltc_usdt": {
+      "high24hr": "248.5000",
+      "percentChange": "+14.56%",
+      "last": "247.3901",
+      "low24hr": "214.5000",
+      "highestBid": "247.3901",
+      "lowestAsk": "248.1894"
+    },
+    "mana_btc": {
+      "high24hr": "0.00000810",
+      "percentChange": "+4.89%",
+      "last": "0.00000772",
+      "low24hr": "0.00000700",
+      "highestBid": "0.00000772",
+      "lowestAsk": "0.00000773"
+    },
+    "mana_eth": {
+      "high24hr": "0.00013356",
+      "percentChange": "-12.46%",
+      "last": "0.00011897",
+      "low24hr": "0.00011813",
+      "highestBid": "0.00011892",
+      "lowestAsk": "0.00011904"
+    },
+    "mana_usdt": {
+      "high24hr": "0.1071",
+      "percentChange": "+7.71%",
+      "last": "0.1048",
+      "low24hr": "0.0895",
+      "highestBid": "0.1043",
+      "lowestAsk": "0.1048"
+    },
+    "mco_btc": {
+      "high24hr": "0.00117103",
+      "percentChange": "+1.18%",
+      "last": "0.00113236",
+      "low24hr": "0.00109556",
+      "highestBid": "0.00112615",
+      "lowestAsk": "0.00113215"
+    },
+    "mco_eth": {
+      "high24hr": "0.02062074",
+      "percentChange": "-14.86%",
+      "last": "0.01745260",
+      "low24hr": "0.01745260",
+      "highestBid": "0.01753769",
+      "lowestAsk": "0.01762153"
+    },
+    "mco_usdt": {
+      "high24hr": "15.6559",
+      "percentChange": "+1.21%",
+      "last": "15.2000",
+      "low24hr": "14.0000",
+      "highestBid": "15.2000",
+      "lowestAsk": "15.2497"
+    },
+    "mda_btc": {
+      "high24hr": "0.00022000",
+      "percentChange": "+10.40%",
+      "last": "0.00016024",
+      "low24hr": "0.00014350",
+      "highestBid": "0.00016024",
+      "lowestAsk": "0.00018585"
+    },
+    "mda_eth": {
+      "high24hr": "0.00342791",
+      "percentChange": "+4.17%",
+      "last": "0.00278222",
+      "low24hr": "0.00252477",
+      "highestBid": "0.00278311",
+      "lowestAsk": "0.00342270"
+    },
+    "mda_usdt": {
+      "high24hr": "2.6650",
+      "percentChange": "+15.41%",
+      "last": "2.3320",
+      "low24hr": "1.9223",
+      "highestBid": "2.3320",
+      "lowestAsk": "2.4992"
+    },
+    "mth_btc": {
+      "high24hr": "0.00002321",
+      "percentChange": "+12.51%",
+      "last": "0.00002185",
+      "low24hr": "0.00001800",
+      "highestBid": "0.00002100",
+      "lowestAsk": "0.00002186"
+    },
+    "mth_eth": {
+      "high24hr": "0.00042028",
+      "percentChange": "-4.99%",
+      "last": "0.00041652",
+      "low24hr": "0.00031810",
+      "highestBid": "0.00032534",
+      "lowestAsk": "0.00041343"
+    },
+    "mth_usdt": {
+      "high24hr": "0.2900",
+      "percentChange": "-1.86%",
+      "last": "0.2846",
+      "low24hr": "0.2502",
+      "highestBid": "0.2847",
+      "lowestAsk": "0.3099"
+    },
+    "mtl_btc": {
+      "high24hr": "0.00074885",
+      "percentChange": "+1.88%",
+      "last": "0.00060813",
+      "low24hr": "0.00047740",
+      "highestBid": "0.00061200",
+      "lowestAsk": "0.00074655"
+    },
+    "mtl_eth": {
+      "high24hr": "0.01283270",
+      "percentChange": "+53.03%",
+      "last": "0.01283270",
+      "low24hr": "0.00838565",
+      "highestBid": "0.01054172",
+      "lowestAsk": "0.01282500"
+    },
+    "mtl_usdt": {
+      "high24hr": "9.3166",
+      "percentChange": "+38.39%",
+      "last": "9.3166",
+      "low24hr": "6.7320",
+      "highestBid": "8.5275",
+      "lowestAsk": "11.3949"
+    },
+    "neo_btc": {
+      "high24hr": "0.00607877",
+      "percentChange": "+11.37%",
+      "last": "0.00607877",
+      "low24hr": "0.00545808",
+      "highestBid": "0.00607242",
+      "lowestAsk": "0.00609800"
+    },
+    "neo_eth": {
+      "high24hr": "0.10712850",
+      "percentChange": "-7.76%",
+      "last": "0.09284894",
+      "low24hr": "0.09284893",
+      "highestBid": "0.09318459",
+      "lowestAsk": "0.09343154"
+    },
+    "neo_usdt": {
+      "high24hr": "82.4736",
+      "percentChange": "+10.29%",
+      "last": "81.6658",
+      "low24hr": "71.2826",
+      "highestBid": "81.6659",
+      "lowestAsk": "82.4736"
+    },
+    "nuls_btc": {
+      "high24hr": "0.00016900",
+      "percentChange": "+0.02%",
+      "last": "0.00016164",
+      "low24hr": "0.00012721",
+      "highestBid": "0.00016139",
+      "lowestAsk": "0.00016191"
+    },
+    "nuls_eth": {
+      "high24hr": "0.00300000",
+      "percentChange": "-9.98%",
+      "last": "0.00266212",
+      "low24hr": "0.00230005",
+      "highestBid": "0.00267533",
+      "lowestAsk": "0.00268835"
+    },
+    "nuls_usdt": {
+      "high24hr": "2.3600",
+      "percentChange": "+0.79%",
+      "last": "2.1737",
+      "low24hr": "1.9000",
+      "highestBid": "2.1955",
+      "lowestAsk": "2.2008"
+    },
+    "oax_btc": {
+      "high24hr": "0.00011880",
+      "percentChange": "-7.19%",
+      "last": "0.00009281",
+      "low24hr": "0.00008138",
+      "highestBid": "0.00008394",
+      "lowestAsk": "0.00009281"
+    },
+    "oax_eth": {
+      "high24hr": "0.00200000",
+      "percentChange": "+12.41%",
+      "last": "0.00199341",
+      "low24hr": "0.00123456",
+      "highestBid": "0.00128938",
+      "lowestAsk": "0.00197994"
+    },
+    "oax_usdt": {
+      "high24hr": "1.7800",
+      "percentChange": "+2.68%",
+      "last": "1.1500",
+      "low24hr": "1.0002",
+      "highestBid": "1.1612",
+      "lowestAsk": "1.3995"
+    },
+    "omg_btc": {
+      "high24hr": "0.00146395",
+      "percentChange": "+2.61%",
+      "last": "0.00141500",
+      "low24hr": "0.00137702",
+      "highestBid": "0.00140300",
+      "lowestAsk": "0.00141699"
+    },
+    "omg_eth": {
+      "high24hr": "0.02598010",
+      "percentChange": "-15.97%",
+      "last": "0.02134378",
+      "low24hr": "0.02001334",
+      "highestBid": "0.02131936",
+      "lowestAsk": "0.02140178"
+    },
+    "omg_usdt": {
+      "high24hr": "19.5697",
+      "percentChange": "+2.84%",
+      "last": "18.8094",
+      "low24hr": "17.4301",
+      "highestBid": "18.8093",
+      "lowestAsk": "19.1385"
+    },
+    "pay_btc": {
+      "high24hr": "0.00030390",
+      "percentChange": "+4.47%",
+      "last": "0.00029630",
+      "low24hr": "0.00027009",
+      "highestBid": "0.00029547",
+      "lowestAsk": "0.00029714"
+    },
+    "pay_eth": {
+      "high24hr": "0.00540210",
+      "percentChange": "-12.55%",
+      "last": "0.00462638",
+      "low24hr": "0.00454249",
+      "highestBid": "0.00462638",
+      "lowestAsk": "0.00464593"
+    },
+    "pay_usdt": {
+      "high24hr": "4.1093",
+      "percentChange": "+5.61%",
+      "last": "4.0135",
+      "low24hr": "3.7000",
+      "highestBid": "3.9927",
+      "lowestAsk": "4.0031"
+    },
+    "ppt_btc": {
+      "high24hr": "0.00382822",
+      "percentChange": "+34.47%",
+      "last": "0.00382822",
+      "low24hr": "0.00261000",
+      "highestBid": "0.00267781",
+      "lowestAsk": "0.00376933"
+    },
+    "ppt_eth": {
+      "high24hr": "0.04456495",
+      "percentChange": "-8.68%",
+      "last": "0.04456495",
+      "low24hr": "0.04394084",
+      "highestBid": "0.04472828",
+      "lowestAsk": "0.06070353"
+    },
+    "ppt_usdt": {
+      "high24hr": "37.9679",
+      "percentChange": "+14.15%",
+      "last": "37.9679",
+      "low24hr": "33.2600",
+      "highestBid": "37.5560",
+      "lowestAsk": "44.5821"
+    },
+    "pro_btc": {
+      "high24hr": "0.00002886",
+      "percentChange": "+10.19%",
+      "last": "0.00002822",
+      "low24hr": "0.00002502",
+      "highestBid": "0.00002818",
+      "lowestAsk": "0.00002839"
+    },
+    "pro_eth": {
+      "high24hr": "0.00046705",
+      "percentChange": "-6.54%",
+      "last": "0.00044000",
+      "low24hr": "0.00044000",
+      "highestBid": "0.00044000",
+      "lowestAsk": "0.00044221"
+    },
+    "pro_usdt": {
+      "high24hr": "0.4023",
+      "percentChange": "+13.11%",
+      "last": "0.3847",
+      "low24hr": "0.3250",
+      "highestBid": "0.3847",
+      "lowestAsk": "0.3895"
+    },
+    "qtum_btc": {
+      "high24hr": "0.00396074",
+      "percentChange": "-0.16%",
+      "last": "0.00381655",
+      "low24hr": "0.00376600",
+      "highestBid": "0.00381681",
+      "lowestAsk": "0.00381682"
+    },
+    "qtum_eth": {
+      "high24hr": "0.07030696",
+      "percentChange": "-16.02%",
+      "last": "0.05912736",
+      "low24hr": "0.05830113",
+      "highestBid": "0.05847412",
+      "lowestAsk": "0.05912736"
+    },
+    "qtum_usdt": {
+      "high24hr": "53.3540",
+      "percentChange": "+1.14%",
+      "last": "51.4001",
+      "low24hr": "49.1200",
+      "highestBid": "51.4001",
+      "lowestAsk": "51.5978"
+    },
+    "qvt_btc": {
+      "high24hr": "0.00004298",
+      "percentChange": "+33.15%",
+      "last": "0.00004298",
+      "low24hr": "0.00002911",
+      "highestBid": "0.00004232",
+      "lowestAsk": "0.00004244"
+    },
+    "qvt_eth": {
+      "high24hr": "0.00075000",
+      "percentChange": "+1.40%",
+      "last": "0.00062001",
+      "low24hr": "0.00058003",
+      "highestBid": "0.00064652",
+      "lowestAsk": "0.00064835"
+    },
+    "qvt_usdt": {
+      "high24hr": "0.5890",
+      "percentChange": "+12.43%",
+      "last": "0.4747",
+      "low24hr": "0.4000",
+      "highestBid": "0.5655",
+      "lowestAsk": "0.5669"
+    },
+    "rcn_btc": {
+      "high24hr": "0.00002900",
+      "percentChange": "+1.58%",
+      "last": "0.00002700",
+      "low24hr": "0.00002356",
+      "highestBid": "0.00002700",
+      "lowestAsk": "0.00003098"
+    },
+    "rcn_eth": {
+      "high24hr": "0.00057443",
+      "percentChange": "-7.51%",
+      "last": "0.00046286",
+      "low24hr": "0.00044600",
+      "highestBid": "0.00041200",
+      "lowestAsk": "0.00046300"
+    },
+    "rcn_usdt": {
+      "high24hr": "0.4200",
+      "percentChange": "-1.28%",
+      "last": "0.3930",
+      "low24hr": "0.3500",
+      "highestBid": "0.3732",
+      "lowestAsk": "0.3976"
+    },
+    "rdn_btc": {
+      "high24hr": "0.00038887",
+      "percentChange": "+15.33%",
+      "last": "0.00035825",
+      "low24hr": "0.00030368",
+      "highestBid": "0.00033751",
+      "lowestAsk": "0.00038880"
+    },
+    "rdn_eth": {
+      "high24hr": "0.00677447",
+      "percentChange": "+0.50%",
+      "last": "0.00553938",
+      "low24hr": "0.00551166",
+      "highestBid": "0.00554106",
+      "lowestAsk": "0.00593705"
+    },
+    "rdn_usdt": {
+      "high24hr": "4.9000",
+      "percentChange": "+19.48%",
+      "last": "4.9000",
+      "low24hr": "4.1010",
+      "highestBid": "4.6015",
+      "lowestAsk": "4.9000"
+    },
+    "req_btc": {
+      "high24hr": "0.00006499",
+      "percentChange": "+14.84%",
+      "last": "0.00006200",
+      "low24hr": "0.00003706",
+      "highestBid": "0.00006200",
+      "lowestAsk": "0.00006487"
+    },
+    "req_eth": {
+      "high24hr": "0.00146139",
+      "percentChange": "+7.27%",
+      "last": "0.00107132",
+      "low24hr": "0.00069256",
+      "highestBid": "0.00107100",
+      "lowestAsk": "0.00128920"
+    },
+    "req_usdt": {
+      "high24hr": "0.9823",
+      "percentChange": "+123.05%",
+      "last": "0.9386",
+      "low24hr": "0.4208",
+      "highestBid": "0.8004",
+      "lowestAsk": "0.9381"
+    },
+    "salt_btc": {
+      "high24hr": "0.00094435",
+      "percentChange": "+0.44%",
+      "last": "0.00093928",
+      "low24hr": "0.00082168",
+      "highestBid": "0.00091824",
+      "lowestAsk": "0.00093928"
+    },
+    "salt_eth": {
+      "high24hr": "0.01769284",
+      "percentChange": "-20.28%",
+      "last": "0.01382942",
+      "low24hr": "0.01300001",
+      "highestBid": "0.01404121",
+      "lowestAsk": "0.01409220"
+    },
+    "salt_usdt": {
+      "high24hr": "14.9900",
+      "percentChange": "+4.45%",
+      "last": "12.6907",
+      "low24hr": "11.8856",
+      "highestBid": "12.6907",
+      "lowestAsk": "12.8089"
+    },
+    "san_btc": {
+      "high24hr": "0.00041198",
+      "percentChange": "+4.16%",
+      "last": "0.00039340",
+      "low24hr": "0.00028851",
+      "highestBid": "0.00035576",
+      "lowestAsk": "0.00039339"
+    },
+    "san_eth": {
+      "high24hr": "0.00750000",
+      "percentChange": "-3.64%",
+      "last": "0.00659701",
+      "low24hr": "0.00644069",
+      "highestBid": "0.00657808",
+      "lowestAsk": "0.00661626"
+    },
+    "san_usdt": {
+      "high24hr": "6.0000",
+      "percentChange": "+2.78%",
+      "last": "5.1616",
+      "low24hr": "4.9073",
+      "highestBid": "5.1003",
+      "lowestAsk": "5.1295"
+    },
+    "sbtc_bch": {
+      "high24hr": "0.06999853",
+      "percentChange": "-10.75%",
+      "last": "0.05799900",
+      "low24hr": "0.05799900",
+      "highestBid": "0.05600040",
+      "lowestAsk": "0.06998734"
+    },
+    "sbtc_btc": {
+      "high24hr": "0.01216100",
+      "percentChange": "-11.95%",
+      "last": "0.01071543",
+      "low24hr": "0.00900000",
+      "highestBid": "0.01061825",
+      "lowestAsk": "0.01066617"
+    },
+    "sngls_btc": {
+      "high24hr": "0.00002410",
+      "percentChange": "+21.93%",
+      "last": "0.00002263",
+      "low24hr": "0.00001429",
+      "highestBid": "0.00002259",
+      "lowestAsk": "0.00002265"
+    },
+    "sngls_eth": {
+      "high24hr": "0.00041153",
+      "percentChange": "-0.45%",
+      "last": "0.00034272",
+      "low24hr": "0.00028000",
+      "highestBid": "0.00034271",
+      "lowestAsk": "0.00034451"
+    },
+    "sngls_usdt": {
+      "high24hr": "0.3200",
+      "percentChange": "+24.14%",
+      "last": "0.3065",
+      "low24hr": "0.2390",
+      "highestBid": "0.3062",
+      "lowestAsk": "0.3073"
+    },
+    "snm_btc": {
+      "high24hr": "0.00002980",
+      "percentChange": "+11.18%",
+      "last": "0.00002884",
+      "low24hr": "0.00002011",
+      "highestBid": "0.00002878",
+      "lowestAsk": "0.00002886"
+    },
+    "snm_eth": {
+      "high24hr": "0.00054100",
+      "percentChange": "+3.17%",
+      "last": "0.00049357",
+      "low24hr": "0.00038523",
+      "highestBid": "0.00049206",
+      "lowestAsk": "0.00049357"
+    },
+    "snm_usdt": {
+      "high24hr": "0.3980",
+      "percentChange": "+12.69%",
+      "last": "0.3916",
+      "low24hr": "0.3355",
+      "highestBid": "0.3937",
+      "lowestAsk": "0.3958"
+    },
+    "snt_btc": {
+      "high24hr": "0.00002085",
+      "percentChange": "+4.78%",
+      "last": "0.00001886",
+      "low24hr": "0.00001770",
+      "highestBid": "0.00001886",
+      "lowestAsk": "0.00001904"
+    },
+    "snt_eth": {
+      "high24hr": "0.00036517",
+      "percentChange": "-13.13%",
+      "last": "0.00029001",
+      "low24hr": "0.00018978",
+      "highestBid": "0.00029000",
+      "lowestAsk": "0.00029001"
+    },
+    "snt_usdt": {
+      "high24hr": "0.2705",
+      "percentChange": "+8.97%",
+      "last": "0.2601",
+      "low24hr": "0.2300",
+      "highestBid": "0.2585",
+      "lowestAsk": "0.2586"
+    },
+    "storj_btc": {
+      "high24hr": "0.00017704",
+      "percentChange": "-4.52%",
+      "last": "0.00016437",
+      "low24hr": "0.00016220",
+      "highestBid": "0.00016437",
+      "lowestAsk": "0.00016489"
+    },
+    "storj_eth": {
+      "high24hr": "0.00301126",
+      "percentChange": "-20.78%",
+      "last": "0.00252331",
+      "low24hr": "0.00250409",
+      "highestBid": "0.00251676",
+      "lowestAsk": "0.00252923"
+    },
+    "storj_usdt": {
+      "high24hr": "2.3698",
+      "percentChange": "-4.77%",
+      "last": "2.2000",
+      "low24hr": "2.1000",
+      "highestBid": "2.2000",
+      "lowestAsk": "2.2737"
+    },
+    "sub_btc": {
+      "high24hr": "0.00009000",
+      "percentChange": "-1.69%",
+      "last": "0.00007741",
+      "low24hr": "0.00007030",
+      "highestBid": "0.00007723",
+      "lowestAsk": "0.00007741"
+    },
+    "sub_eth": {
+      "high24hr": "0.00141224",
+      "percentChange": "-17.81%",
+      "last": "0.00120000",
+      "low24hr": "0.00120000",
+      "highestBid": "0.00124493",
+      "lowestAsk": "0.00128481"
+    },
+    "sub_usdt": {
+      "high24hr": "1.4500",
+      "percentChange": "+0.13%",
+      "last": "1.0588",
+      "low24hr": "1.0130",
+      "highestBid": "1.0585",
+      "lowestAsk": "1.0795"
+    },
+    "swftc_btc": {
+      "high24hr": "0.00000108",
+      "percentChange": "+22.50%",
+      "last": "0.00000098",
+      "low24hr": "0.00000077",
+      "highestBid": "0.00000097",
+      "lowestAsk": "0.00000098"
+    },
+    "swftc_eth": {
+      "high24hr": "0.00001686",
+      "percentChange": "+3.22%",
+      "last": "0.00001508",
+      "low24hr": "0.00001394",
+      "highestBid": "0.00001505",
+      "lowestAsk": "0.00001511"
+    },
+    "swftc_usdt": {
+      "high24hr": "0.0136",
+      "percentChange": "+22.22%",
+      "last": "0.0132",
+      "low24hr": "0.0104",
+      "highestBid": "0.0132",
+      "lowestAsk": "0.0133"
+    },
+    "tnb_btc": {
+      "high24hr": "0.00000714",
+      "percentChange": "+3.96%",
+      "last": "0.00000709",
+      "low24hr": "0.00000660",
+      "highestBid": "0.00000706",
+      "lowestAsk": "0.00000709"
+    },
+    "tnb_eth": {
+      "high24hr": "0.00012777",
+      "percentChange": "-12.49%",
+      "last": "0.00010918",
+      "low24hr": "0.00010800",
+      "highestBid": "0.00010839",
+      "lowestAsk": "0.00010917"
+    },
+    "tnb_usdt": {
+      "high24hr": "0.0970",
+      "percentChange": "+4.27%",
+      "last": "0.0953",
+      "low24hr": "0.0869",
+      "highestBid": "0.0951",
+      "lowestAsk": "0.0955"
+    },
+    "trx_btc": {
+      "high24hr": "0.00000400",
+      "percentChange": "+1.28%",
+      "last": "0.00000397",
+      "low24hr": "0.00000311",
+      "highestBid": "0.00000390",
+      "lowestAsk": "0.00000400"
+    },
+    "trx_eth": {
+      "high24hr": "0.00006839",
+      "percentChange": "-23.54%",
+      "last": "0.00006117",
+      "low24hr": "0.00005601",
+      "highestBid": "0.00006109",
+      "lowestAsk": "0.00006817"
+    },
+    "trx_usdt": {
+      "high24hr": "0.0549",
+      "percentChange": "+7.14%",
+      "last": "0.0540",
+      "low24hr": "0.0427",
+      "highestBid": "0.0520",
+      "lowestAsk": "0.0540"
+    },
+    "vee_btc": {
+      "high24hr": "0.00000576",
+      "percentChange": "-7.92%",
+      "last": "0.00000570",
+      "low24hr": "0.00000500",
+      "highestBid": "0.00000566",
+      "lowestAsk": "0.00000568"
+    },
+    "vee_eth": {
+      "high24hr": "0.00010699",
+      "percentChange": "-26.40%",
+      "last": "0.00008685",
+      "low24hr": "0.00008685",
+      "highestBid": "0.00008658",
+      "lowestAsk": "0.00008709"
+    },
+    "vee_usdt": {
+      "high24hr": "0.0800",
+      "percentChange": "-8.87%",
+      "last": "0.0760",
+      "low24hr": "0.0570",
+      "highestBid": "0.0760",
+      "lowestAsk": "0.0762"
+    },
+    "wtc_btc": {
+      "high24hr": "0.00080458",
+      "percentChange": "+1.85%",
+      "last": "0.00077589",
+      "low24hr": "0.00073440",
+      "highestBid": "0.00077825",
+      "lowestAsk": "0.00078037"
+    },
+    "wtc_eth": {
+      "high24hr": "0.01574330",
+      "percentChange": "-10.18%",
+      "last": "0.01252044",
+      "low24hr": "0.01252044",
+      "highestBid": "0.01239135",
+      "lowestAsk": "0.01241643"
+    },
+    "wtc_usdt": {
+      "high24hr": "10.6036",
+      "percentChange": "+4.19%",
+      "last": "10.5500",
+      "low24hr": "9.7500",
+      "highestBid": "10.5500",
+      "lowestAsk": "10.5765"
+    },
+    "xem_btc": {
+      "high24hr": "0.00008250",
+      "percentChange": "+1.13%",
+      "last": "0.00007763",
+      "low24hr": "0.00007088",
+      "highestBid": "0.00007393",
+      "lowestAsk": "0.00007786"
+    },
+    "xem_eth": {
+      "high24hr": "0.00173900",
+      "percentChange": "-23.89%",
+      "last": "0.00120000",
+      "low24hr": "0.00120000",
+      "highestBid": "0.00110000",
+      "lowestAsk": "0.00167925"
+    },
+    "xem_usdt": {
+      "high24hr": "1.0900",
+      "percentChange": "+11.05%",
+      "last": "1.0888",
+      "low24hr": "0.9479",
+      "highestBid": "1.0002",
+      "lowestAsk": "1.0895"
+    },
+    "xlm_btc": {
+      "high24hr": "0.00003700",
+      "percentChange": "+24.41%",
+      "last": "0.00003552",
+      "low24hr": "0.00002300",
+      "highestBid": "0.00003552",
+      "lowestAsk": "0.00003580"
+    },
+    "xlm_eth": {
+      "high24hr": "0.00064999",
+      "percentChange": "+4.56%",
+      "last": "0.00059572",
+      "low24hr": "0.00048200",
+      "highestBid": "0.00051002",
+      "lowestAsk": "0.00060000"
+    },
+    "xlm_usdt": {
+      "high24hr": "0.5898",
+      "percentChange": "+24.39%",
+      "last": "0.4850",
+      "low24hr": "0.3500",
+      "highestBid": "0.4840",
+      "lowestAsk": "0.4850"
+    },
+    "xmr_btc": {
+      "high24hr": "0.02719315",
+      "percentChange": "-44.49%",
+      "last": "0.02719315",
+      "low24hr": "0.02300000",
+      "highestBid": "0.02421726",
+      "lowestAsk": "0.02780502"
+    },
+    "xmr_eth": {
+      "high24hr": "0.51847300",
+      "percentChange": "-18.33%",
+      "last": "0.42100000",
+      "low24hr": "0.42100000",
+      "highestBid": "0.40000011",
+      "lowestAsk": "0.47971172"
+    },
+    "xmr_usdt": {
+      "high24hr": "365.0000",
+      "percentChange": "+11.63%",
+      "last": "358.0000",
+      "low24hr": "320.5961",
+      "highestBid": "332.2921",
+      "lowestAsk": "357.7850"
+    },
+    "xrp_btc": {
+      "high24hr": "0.00015559",
+      "percentChange": "-3.00%",
+      "last": "0.00014212",
+      "low24hr": "0.00010100",
+      "highestBid": "0.00014208",
+      "lowestAsk": "0.00014209"
+    },
+    "xrp_eth": {
+      "high24hr": "0.00280000",
+      "percentChange": "-19.54%",
+      "last": "0.00220000",
+      "low24hr": "0.00211000",
+      "highestBid": "0.00215214",
+      "lowestAsk": "0.00220000"
+    },
+    "xrp_usdt": {
+      "high24hr": "2.0718",
+      "percentChange": "-2.76%",
+      "last": "1.9020",
+      "low24hr": "1.7500",
+      "highestBid": "1.9020",
+      "lowestAsk": "1.9079"
+    },
+    "xuc_btc": {
+      "high24hr": "0.00068587",
+      "percentChange": "+1.86%",
+      "last": "0.00068231",
+      "low24hr": "0.00065603",
+      "highestBid": "0.00068091",
+      "lowestAsk": "0.00068373"
+    },
+    "xuc_eth": {
+      "high24hr": "0.01213913",
+      "percentChange": "-13.91%",
+      "last": "0.01052000",
+      "low24hr": "0.01043309",
+      "highestBid": "0.01051200",
+      "lowestAsk": "0.01052000"
+    },
+    "xuc_usdt": {
+      "high24hr": "9.3000",
+      "percentChange": "+3.98%",
+      "last": "9.2020",
+      "low24hr": "8.6999",
+      "highestBid": "9.2020",
+      "lowestAsk": "9.2213"
+    },
+    "yoyo_btc": {
+      "high24hr": "0.00002399",
+      "percentChange": "+6.46%",
+      "last": "0.00002192",
+      "low24hr": "0.00001800",
+      "highestBid": "0.00002201",
+      "lowestAsk": "0.00002212"
+    },
+    "yoyo_eth": {
+      "high24hr": "0.00039853",
+      "percentChange": "-12.29%",
+      "last": "0.00034190",
+      "low24hr": "0.00033300",
+      "highestBid": "0.00033597",
+      "lowestAsk": "0.00033885"
+    },
+    "yoyo_usdt": {
+      "high24hr": "0.3199",
+      "percentChange": "+9.09%",
+      "last": "0.3000",
+      "low24hr": "0.2570",
+      "highestBid": "0.3001",
+      "lowestAsk": "0.3021"
+    },
+    "zec_btc": {
+      "high24hr": "0.04066415",
+      "percentChange": "+14.78%",
+      "last": "0.03962498",
+      "low24hr": "0.03417210",
+      "highestBid": "0.03962498",
+      "lowestAsk": "0.03980000"
+    },
+    "zec_eth": {
+      "high24hr": "0.71775992",
+      "percentChange": "-3.18%",
+      "last": "0.61550766",
+      "low24hr": "0.61000000",
+      "highestBid": "0.61550766",
+      "lowestAsk": "0.61550767"
+    },
+    "zec_usdt": {
+      "high24hr": "548.6600",
+      "percentChange": "+16.12%",
+      "last": "537.0409",
+      "low24hr": "457.5702",
+      "highestBid": "537.0409",
+      "lowestAsk": "538.5081"
+    },
+    "zrx_btc": {
+      "high24hr": "0.00007300",
+      "percentChange": "+7.69%",
+      "last": "0.00007090",
+      "low24hr": "0.00005055",
+      "highestBid": "0.00007103",
+      "lowestAsk": "0.00007110"
+    },
+    "zrx_eth": {
+      "high24hr": "0.00123888",
+      "percentChange": "-4.37%",
+      "last": "0.00115610",
+      "low24hr": "0.00106980",
+      "highestBid": "0.00114041",
+      "lowestAsk": "0.00115610"
+    },
+    "zrx_usdt": {
+      "high24hr": "0.9669",
+      "percentChange": "+7.71%",
+      "last": "0.9500",
+      "low24hr": "0.8600",
+      "highestBid": "0.9551",
+      "lowestAsk": "0.9570"
+    },
+    "1st_btc": {
+      "high24hr": "0.00007300",
+      "percentChange": "+8.58%",
+      "last": "0.00007300",
+      "low24hr": "0.00006209",
+      "highestBid": "0.00007270",
+      "lowestAsk": "0.00007300"
+    },
+    "1st_eth": {
+      "high24hr": "0.00124834",
+      "percentChange": "-11.06%",
+      "last": "0.00109440",
+      "low24hr": "0.00098900",
+      "highestBid": "0.00110503",
+      "lowestAsk": "0.00110736"
+    },
+    "1st_usdt": {
+      "high24hr": "0.9850",
+      "percentChange": "+10.16%",
+      "last": "0.9717",
+      "low24hr": "0.8499",
+      "highestBid": "0.9698",
+      "lowestAsk": "0.9749"
+    }
+  }
+}

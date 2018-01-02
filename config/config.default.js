@@ -13,7 +13,7 @@ module.exports = appInfo => {
   config.okTicker = 'https://www.okex.com/v2/';
   config.gateioApi = 'http://data.gate.io/api2/1/';
   config.cors = {
-    origin: '*',
+    origin: 'http://dev.btcc.com:3001',
     allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH',
   };
   return config;
