@@ -16,12 +16,14 @@ class HomeController extends Controller {
     }
   }
   async okContractApi() {
+    const { ctx } = this;
     try {
-      const { ctx } = this;
       const { data } = await ctx.service.api.okContractApi('future_ticker');
       return data;
     } catch (err) {
-      throw err;
+      ctx.status = err.status;
+      ctx.body = { error: err.message };
+      return ctx.body;
     }
   }
   async gateio() {
@@ -37,8 +39,8 @@ class HomeController extends Controller {
     }
   }
   async okTicker() {
+    const { ctx } = this;
     try {
-      const { ctx } = this;
       const { data: info } = await ctx.service.api.okTicker();
       const o = {};
       const { data } = info;
@@ -56,7 +58,9 @@ class HomeController extends Controller {
       ctx.body = { okex: o };
       return ctx.body;
     } catch (err) {
-      throw err;
+      ctx.status = err.status;
+      ctx.body = { error: err.message };
+      return ctx.body;
     }
   }
 }

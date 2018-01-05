@@ -14,11 +14,11 @@ describe('test/controller/exchangeApi.test.js', () => {
 
   it('should GET gateio', async () => {
     app.mockCsrf();
-    app.mockService('api', 'gateioApi', mockData['gate.io']);
+    app.mockService('api', 'gateioApi', { data: mockData['gate.io'] });
     await app.httpRequest()
       .get('/gateio')
       .expect(200)
-      .expect(mockData['gate.io']);
+      .expect({ 'gate.io': mockData['gate.io'] });
   });
 
   it('should GET gateio error', async () => {
